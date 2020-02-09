@@ -1,3 +1,3 @@
 - [Home]({{ site.baseurl }}/)
-- [Catalog]({{ site.baseurl }}/catalog/)
-- [About Us]({{ site.baseurl }}/about/)
+- [Catalog]({{ site.baseurl }}/catalog)
+- [About Us]({{ site.baseurl }}/about)

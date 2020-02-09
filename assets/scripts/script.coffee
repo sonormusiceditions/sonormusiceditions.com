@@ -1,5 +1,7 @@
 ---
 ---
 $("header ul li a").each ->
-  if window.location.pathname == $(@).attr("href") then $(@).addClass "active"
+  pathname = window.location.pathname
+  if $(@).attr("href") in [pathname, pathname.slice(0,-1)]
+    $(@).addClass "active"
   return
