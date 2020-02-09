@@ -2,6 +2,7 @@
 title: UN URLO DALLE TENEBRE OST
 author: Giuliano Sorgini
 volume: 61
+cover: https://f4.bcbits.com/img/a2548398482_10.jpg
 ---
 
 The previously unreleased on vinyl original full soundtrack of the occult 1975 film directed by Elio Pannacciò.

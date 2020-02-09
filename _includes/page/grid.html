@@ -2,11 +2,13 @@
 
 <ol>
 {% for release in site[page.collection] %}
-{% assign release_path = "" | split: "" | push: site.baseurl | push: release.collection | push: release.volume | join: "/" %}
 {% if release.path != page.path %}
+{% assign release_path = "" | split: "" | push: site.baseurl | push: release.collection | push: release.volume | join: "/" %}
+{% assign cover_path = release_path | append: "/0.jpg" %}
+{% assign cover = release.cover | default: cover_path %}
   <li>
     <a href="{{ site.baseurl }}{{ release.url }}">
-      <img src="{{ release_path }}/0.jpg" alt="{{ release.title }}">
+      <img src="{{ cover }}" alt="{{ release.title }}">
       <p class="title">
         <strong>{{ release.title }}</strong>
         <br>
