@@ -1,0 +1,50 @@
+repository: sonormusiceditions/prova
+
+title: SONOR MUSIC EDITIONS
+tagline: Record label dedicated to Italian Music Libraries from the 1970s
+description: Rare and obscure Pop, Jazz-Funk, Cinematic Lounge, Funk, Instrumental Psych, Prog., Cosmic Music and Easy Listening from the Italian Music Library universe.
+
+# Plugins list
+plugins:
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+
+# To have /collection/page/ links
+permalink: pretty
+
+# SEO TAGS
+twitter:
+  username: ArmagideonTimes
+  card: summary
+author:
+  twitter: ArmagideonTimes
+facebook:
+  publisher: sonormusiceditions
+social:
+  name: Sonor Music Editions
+  links:
+    - https://www.instagram.com/sonormusiceditions
+    - https://twitter.com/ArmagideonTimes
+    - http://www.youtube.com/user/TheArmagideonTimes?feature=watch
+    - https://soundcloud.com/armagideon-times/sets/sonor-music-editions
+    - http://sonormusiceditions.bandcamp.com/
+# logo:
+
+# COLLECTIONS
+# -----------------------
+
+# Output collection
+collections:
+  catalog:
+    output: true
+
+# Defaults
+defaults:
+  # Set default layout in collections
+  - scope:
+      type: catalog
+    values:
+      layout: default

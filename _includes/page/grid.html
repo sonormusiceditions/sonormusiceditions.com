@@ -1,0 +1,20 @@
+<h1>{{ page.title | upcase }}</h1>
+
+<ol>
+{% for release in site[page.collection] %}
+{% assign depth = release.path | split: "/" | size %}
+{% assign page_path = release.path | split: "/" | pop | join: "/" %}
+{% if release.path != page.path %}
+  <li>
+    <a href="{{ release.url }}">
+      <img src="{{ release.volume }}/0.jpg" alt="{{ release.title }}">
+      <p class="title">
+        <strong>{{ release.title }}</strong>
+        <br>
+        {{ release.author }} <i>(SME {{ release.volume }})</i>
+      </p>
+    </a>
+  </li>
+{% endif %}
+{% endfor %}
+</ol>

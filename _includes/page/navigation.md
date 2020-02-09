@@ -1,0 +1,3 @@
+- [Home](/)
+- [Catalog](/catalog)
+- [About Us](/about)

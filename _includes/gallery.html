@@ -1,0 +1,8 @@
+{% assign page_path = page.path | split: "/" | pop | join: "/" %}
+{% for static_file in site.static_files %}- {{ static_file.path}}
+{% assign path = static_file.path | split: "/" | pop | join: "/" %}
+{% if path == page_path %}code{% endif %}
+{% endfor %}
+
+- page_path {{ page_path }}
+- page.path {{ page.path }}
