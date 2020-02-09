@@ -1,0 +1,5 @@
+{% assign page_path = "" | split: "" | push: site.baseurl | push: page.collection | push: page.volume | join: "/" %}
+<div class="gallery">
+{% for image in (1..10) %}<img src="{{ page_path }}/{{ forloop.index }}.jpg" onerror="this.onerror=null;this.parentNode.removeChild(this);">
+{% endfor %}
+</div>

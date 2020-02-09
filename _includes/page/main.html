@@ -8,6 +8,7 @@
   <h1>{{ page.title }}</h1>
   <h2>{{ page.author }} <i>(SME - {{ page.volume }})</i></h2>
   {{ content }}
+  {% include page/gallery.html %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
   {{ content }}
