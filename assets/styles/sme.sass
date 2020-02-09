@@ -1,8 +1,14 @@
 ---
 ---
+// VAR
+$arancio: #dd5032
+$maron: #270e09
+$giallo: #FFB241
+$white: WhiteSmoke
+
 // HTML
 html
-  background: #dd5032
+  background: $arancio
 
 // BODY
 body
@@ -17,17 +23,18 @@ footer, header, main
   padding: 1em
 
 .wrapper
-  background: #270e09
-  color: white
-  padding: 1em 0
+  background: $maron
+  color: $white
 
 main
   padding-bottom: 3em
-  h1, h2
-    color: #FFB241
+  h1
+    color: $giallo
     font-family: 'Play', 'sans-serif'
+  h2
+    color: $arancio
   a:link, a:visited
-    color: white
+    color: $white
 
 // LINKS
 a
@@ -35,11 +42,11 @@ a
     text-decoration: none
     color: black
   &:hover, &:active, &.active
-    color: #FFB241
+    color: $giallo
 
 // NAVIGATION
 header
-  a img
+  img
     max-width: 100%
   ul
     list-style: none
@@ -53,6 +60,8 @@ header
       padding: 0 .4em
       font-weight: bold
       text-transform: uppercase
+      a
+        border-bottom: 2px solid $giallo
 
 // GRID
 ol
@@ -67,3 +76,23 @@ ol
     img
       width: 16em
       position: relative
+
+// SLANT
+.slant
+  position: relative
+  height: 20px
+  svg
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    height: 20px
+    fill: $maron
+
+.wrapper + .slant
+  -moz-transform: scaleY(-1)
+  -webkit-transform: scaleY(-1)
+  -o-transform: scaleY(-1)
+  transform: scaleY(-1)
+  -ms-filter: flipw
+  filter: flipw
