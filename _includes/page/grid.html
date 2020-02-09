@@ -1,7 +1,7 @@
 <h1>{{ page.title | upcase }}</h1>
 
 <ol>
-{% for release in site[page.collection] %}
+{% for release in site[page.collection] reversed %}
 {% if release.path != page.path %}
 {% assign release_path = "" | split: "" | push: site.baseurl | push: release.collection | push: release.volume | join: "/" %}
 {% assign cover_path = release_path | append: "/0.jpg" %}
