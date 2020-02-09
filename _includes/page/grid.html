@@ -2,12 +2,11 @@
 
 <ol>
 {% for release in site[page.collection] %}
-{% assign depth = release.path | split: "/" | size %}
-{% assign page_path = release.path | split: "/" | pop | join: "/" %}
+{% assign release_path = "" | split: "" | push: site.baseurl | push: release.collection | push: release.volume | join: "/" %}
 {% if release.path != page.path %}
   <li>
     <a href="{{ site.baseurl }}{{ release.url }}">
-      <img src="{{ release.volume }}/0.jpg" alt="{{ release.title }}">
+      <img src="{{ release_path }}/0.jpg" alt="{{ release.title }}">
       <p class="title">
         <strong>{{ release.title }}</strong>
         <br>
