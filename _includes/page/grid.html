@@ -6,7 +6,7 @@
 {% assign page_path = release.path | split: "/" | pop | join: "/" %}
 {% if release.path != page.path %}
   <li>
-    <a href="{{ release.url }}">
+    <a href="{{ site.baseurl }}{{ release.url }}">
       <img src="{{ release.volume }}/0.jpg" alt="{{ release.title }}">
       <p class="title">
         <strong>{{ release.title }}</strong>

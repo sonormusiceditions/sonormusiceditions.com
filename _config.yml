@@ -3,6 +3,7 @@ repository: sonormusiceditions/prova
 title: SONOR MUSIC EDITIONS
 tagline: Record label dedicated to Italian Music Libraries from the 1970s
 description: Rare and obscure Pop, Jazz-Funk, Cinematic Lounge, Funk, Instrumental Psych, Prog., Cosmic Music and Easy Listening from the Italian Music Library universe.
+baseurl: /prova
 
 # Plugins list
 plugins:
