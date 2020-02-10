@@ -2,13 +2,15 @@
   <main>
   {% if page.permalink == page.collection and page.collection %}
   {% comment %} -------------------- Grid -------------------- {% endcomment %}
-  {% include page/grid.html %}
+  <h1>{{ page.title | upcase }}</h1>
+  {{ content }}
+  {% include grid.html %}
   {% elsif page.collection %}
   {% comment %} -------------------- Release -------------------- {% endcomment %}
   <h1>{{ page.title }}</h1>
   <h2>{{ page.author }} <i>(SME - {{ page.volume }})</i></h2>
   {{ content }}
-  {% include page/gallery.html %}
+  {% include gallery.html %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
   {{ content }}
