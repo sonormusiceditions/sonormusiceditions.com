@@ -1,5 +1,9 @@
+{% if include.type == "release" %}
 {% assign page_path = "" | split: "" | push: site.baseurl | push: page.collection | push: page.volume | join: "/" %}
-<div class="gallery">
+{% elsif include.type == "page" %}
+{% assign page_path = page.path | split: "/" | pop | join: "/" | prepend: "/" | prepend: site.baseurl %}
+{% endif %}
+<div class="gallery {{ include.type }}">
 {% for image in (1..10) %}<img src="{{ page_path }}/{{ forloop.index }}.jpg" onerror="this.onerror=null;this.parentNode.removeChild(this);">
 {% endfor %}
 </div>

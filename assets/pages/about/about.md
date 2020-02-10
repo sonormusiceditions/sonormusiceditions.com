@@ -1,5 +1,6 @@
 ---
 title: ABOUT US
+permalink: /about
 ---
 
 # ABOUT US

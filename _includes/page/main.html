@@ -10,10 +10,11 @@
   <h1>{{ page.title }}</h1>
   <h2>{{ page.author }} <i>(SME - {{ page.volume }})</i></h2>
   {{ content }}
-  {% include gallery.html %}
+  {% include gallery.html type="release" %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
   {{ content }}
+  {% include gallery.html type="page" %}
   {% endif %}
   </main>
 </div>

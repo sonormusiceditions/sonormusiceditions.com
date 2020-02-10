@@ -28,15 +28,10 @@ footer, header, main
 
 main
   padding-bottom: 3em
-  display: flex
-  flex-flow: row wrap
-  justify-content: center
   h1
-    flex: 1 100% 
     color: $giallo
     font-family: 'Play', 'sans-serif'
   h2
-    flex: 1 100%
     margin-top: 0
     color: $arancio
   a:link, a:visited
@@ -104,10 +99,16 @@ ol
   filter: flipw
 
 // GALLERY
-iframe
-  flex: initial
-.gallery
-  padding-left: .5em
-  flex: 1
-  img
-    max-width: 100%
+main
+  display: flex
+  flex-flow: row wrap
+  justify-content: center
+  h1, h2
+    flex: 1 100%
+  iframe
+    flex: initial
+  .gallery.release
+    padding-left: .5em
+    flex: 1
+    img
+      max-width: 100%
