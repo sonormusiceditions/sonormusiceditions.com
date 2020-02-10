@@ -9,12 +9,12 @@ $white: WhiteSmoke
 // HTML
 html
   background: $arancio
+  overflow-y: scroll
 
 // BODY
 body
   font-family: 'Roboto', 'sans-serif'
   text-align: center
-
 
 // MAIN
 footer, header, main
@@ -28,10 +28,16 @@ footer, header, main
 
 main
   padding-bottom: 3em
+  display: flex
+  flex-flow: row wrap
+  justify-content: center
   h1
+    flex: 1 100% 
     color: $giallo
     font-family: 'Play', 'sans-serif'
   h2
+    flex: 1 100%
+    margin-top: 0
     color: $arancio
   a:link, a:visited
     color: $white
@@ -96,3 +102,12 @@ ol
   transform: scaleY(-1)
   -ms-filter: flipw
   filter: flipw
+
+// GALLERY
+iframe
+  flex: initial
+.gallery
+  padding-left: .5em
+  flex: 1
+  img
+    max-width: 100%
