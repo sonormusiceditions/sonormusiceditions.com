@@ -1,7 +1,8 @@
 ---
 title: IL DIO SOTTO LA PELLE OST
 author: PIERO PICCIONI
-volume: 65
+volume: SME 65
+date: 3 Feb 2020
 ---
 SONOR MUSIC EDITIONS and MUSICA PER IMMAGINI are proud to present the reissue of "IL DIO SOTTO LA PELLE" OST by maestro Piero Piccioni, originally recorded for the 1974 film-documentary directed by Folco Quilici and Carlo Alberto Pinelli. Released on a double LP set and remastered from the first generation master tapes including 12 restored unreleased tracks, this beatiful and sought-after score by maestro Piccioni released for the first time over 20 years ago is now enriched with new graphics inspired by the original posters and designed by the great Luca Barcellona with Marco Ferretti inside liner notes. A renewed, deluxe edition of this very essential OST by the cult maestro where Jazz, Soul, Exotica, Lounge music and Psychedelia are mixed in an admirable way, introduced by the dreamy voice of Catherine Howe and at times accompained by Edda Dell'Orso's sweet vocalism, with Piero Piccioni's dazzling Hammond organ.
 

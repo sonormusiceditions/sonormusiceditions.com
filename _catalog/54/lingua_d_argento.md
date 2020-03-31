@@ -1,8 +1,9 @@
 ---
 title: LINGUA D'ARGENTO OST
 author: Alberto Baldan Bembo
-volume: 54
-cover: https://f4.bcbits.com/img/a4210656401_10.jpg
+volume: SME 54
+image: https://f4.bcbits.com/img/a4210656401_10.jpg
+date: November 19, 2018
 ---
 
 We're excited to release this stunning Italian soundtrack originally issued in 1976 which is widely considered a true holy grail of the genre and Funk Exotica masterpiece.
