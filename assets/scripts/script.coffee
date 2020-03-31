@@ -1,7 +1,6 @@
 ---
 ---
 $("header ul li a").each ->
-  pathname = window.location.pathname
-  if $(@).attr("href") in [pathname, pathname.slice(0,-1)]
+  if $(@).text().toLocaleLowerCase("en-US") is $("body").attr "data-collection"
     $(@).addClass "active"
   return
