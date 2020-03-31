@@ -5,6 +5,6 @@ permalink: /
 
 # ITALIAN RECORD LABEL AND MUSIC PUBLISHER
 
-Founded in 2013 and based in Rome, Italy, SONOR MUSIC EDITIONS is specialized in synchronization music for films, radio and television. We spread rare and obscure Pop, Jazz-Funk, Cinematic Lounge, Funk, Psychedelic and Progressive music, spacey Cosmic sounds, Easy Listening and all that good vintage Italian vibes hailing from 1970s & 80s Library and Soundtrack music production.
+Founded in 2013 and based in Rome, Italy, SONOR MUSIC EDITIONS is a record label specialized in archival music for films, radio and television. From rare and obscure Pop, Jazz, Cinematic Lounge, Funk, Easy Listening to underground Psychedelic and Progressive music, spaced cosmic sounds, and all that golden Italian vibes hailing from 1970s & 80s Library and Soundtrack music production.
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:user:bastard_grooves:playlist:3M5FKJggRE2NocgXE0LzRV" width="700" height="810" frameborder="0" allowtransparency="true"></iframe>
