@@ -76,7 +76,14 @@ ol
     text-align: center
     img
       width: 16em
+      height: 16em
       position: relative
+    .title
+      font-size: small
+      white-space: nowrap
+      overflow: hidden
+      text-overflow: ellipsis
+      max-width: 18em
 
 // SLANT
 .slant
@@ -107,8 +114,10 @@ main
     flex: 1 100%
   iframe
     flex: initial
+    margin-bottom: 2.5em
   .gallery.release
-    padding-left: .5em
+    padding-left: 2.5em
     flex: 1
+    text-align: center
     img
       max-width: 100%

@@ -1,5 +1,6 @@
 {% if include.type == "release" %}
-{% assign page_path = "" | split: "" | push: site.baseurl | push: page.collection | push: page.volume | join: "/" %}
+{%- assign folder = page.path | split: "/" | shift | pop -%}
+{% assign page_path = "" | split: "" | push: site.baseurl | push: page.collection | push: folder | join: "/" %}
 {% elsif include.type == "page" %}
 {% assign page_path = page.path | split: "/" | pop | join: "/" | prepend: "/" | prepend: site.baseurl %}
 {% endif %}

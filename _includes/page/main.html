@@ -8,7 +8,7 @@
   {% elsif page.collection %}
   {% comment %} -------------------- Release -------------------- {% endcomment %}
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.author }} <i>(SME - {{ page.volume }})</i></h2>
+  <h2>{{ page.author }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
   {{ content }}
   {% include gallery.html type="release" %}
   {% else %}
