@@ -5,6 +5,7 @@ $arancio: #dd5032
 $maron: #270e09
 $giallo: #FFB241
 $white: WhiteSmoke
+$width: 50em
 
 // HTML
 html
@@ -18,9 +19,11 @@ body
 
 // MAIN
 footer, header, main
-  max-width: 50em
+  max-width: $width
   margin: 0 auto
   padding: 1em
+main.grid
+  max-width: 90%
 
 .wrapper
   background: $maron
@@ -67,7 +70,7 @@ header
 // GRID
 ol
   list-style: none
-  text-align: left
+  // text-align: left
   margin: 0
   padding: 0
   li

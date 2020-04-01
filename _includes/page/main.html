@@ -1,18 +1,20 @@
 <div class="wrapper">
-  <main>
   {% if page.permalink == page.collection and page.collection %}
   {% comment %} -------------------- Grid -------------------- {% endcomment %}
+  <main class="grid">
   <h1>{{ page.title | upcase }}</h1>
   {{ content }}
   {% include grid.html %}
   {% elsif page.collection %}
   {% comment %} -------------------- Release -------------------- {% endcomment %}
+  <main>
   <h1>{{ page.title }}</h1>
   <h2>{{ page.author }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
   {{ content }}
   {% include gallery.html type="release" %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
+  <main>
   {{ content }}
   {% include gallery.html type="page" %}
   {% endif %}

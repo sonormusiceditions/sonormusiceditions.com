@@ -4,6 +4,8 @@ title: L'AMICA DI MIA MADRE OST
 date: June 28, 2019
 volume: SME 57
 image: https://f4.bcbits.com/img/a3386077717_10.jpg
+gallery:
+- https://f4.bcbits.com/img/a3386077717_10.jpg
 ---
 
 Originally released in 1975 this spellbinding soundtrack by the cult maestro Baldan Bembo is another Exotica jewel from the Italian film music golden  era. Original music for the erotic drama movie L'AMICA DI MIA MADRE starring Barbara Bouchet & Carmen Villani, and directed by Mauro Ivaldi. Stunning, sophisticated and groovy orchestral themes and arrangements with refined Lounge softcore vibes / soft Jazz and Psychedelic cues with tribal, exotic and Disco driving moods dopeness.

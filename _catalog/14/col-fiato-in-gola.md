@@ -1,5 +1,5 @@
 ---
-titile: COL FIATO IN GOLA
+title: COL FIATO IN GOLA
 author: FILIPPO TRECCA
 volume: SME 14
 image: https://f4.bcbits.com/img/a0218598963_10.jpg
