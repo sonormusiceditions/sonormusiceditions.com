@@ -1,0 +1,24 @@
+{%- assign index_page = "item.permalink != '" | append: page.collection | append: "'" -%}
+{%- assign same_page = "item.path != '" | append: page.path | append: "'" -%}
+{%- assign also1 = site[page.collection] | sample: 5 -%}
+{%- assign also2 = also1 | where_exp: "item", index_page -%}
+{%- assign also = also2 | where_exp: "item", same_page -%}
+<h2>YOU MAY ALSO LIKE</h2>
+<ol>
+  {% for release in also limit:3 %}
+    {%- assign folder = release.path | split: "/" | shift | pop -%}
+    {%- assign release_path = "" | split: "" | push: site.baseurl | push: release.collection | push: folder | join: "/" -%}
+    {% assign cover_path = release_path | append: "/0.jpg" %}
+    {% assign cover = release.image | default: cover_path %}
+    <li>
+      <a href="{{ site.baseurl }}{{ release.url }}">
+        <img src="{{ cover }}" alt="{{ release.title }}">
+        <p class="title">
+          <strong>{{ release.title }}</strong>
+          <br>
+          {{ release.author }}{% if release.volume %} <i>({{ release.volume }}){% endif %}</i>
+        </p>
+      </a>
+    </li>
+  {% endfor %}
+</ol>

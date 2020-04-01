@@ -12,6 +12,7 @@
   <h2>{{ page.author }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
   {{ content }}
   {% include gallery.html type="release" %}
+  {% include also.html %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
   <main>
