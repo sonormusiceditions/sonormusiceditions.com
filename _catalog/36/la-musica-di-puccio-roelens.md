@@ -2,7 +2,7 @@
 author: PUCCIO ROELENS
 title: LA MUSICA DI PUCCIO ROELENS
 date: April 3, 2017
-image: https://f4.bcbits.com/img/0009727142_10.jpg
+image: https://f4.bcbits.com/img/a1623076099_10.jpg
 volume: SME 36
 ---
 

@@ -2,7 +2,7 @@
 author: BRAEN RASKOVICH
 title: DRAMMATICO
 date: June 15, 2017
-image: https://f4.bcbits.com/img/0010389014_10.jpg
+image: https://f4.bcbits.com/img/a2274821057_10.jpg
 volume: SME 38
 ---
 

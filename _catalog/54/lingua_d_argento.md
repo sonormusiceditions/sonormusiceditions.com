@@ -1,6 +1,6 @@
 ---
 title: LINGUA D'ARGENTO OST
-author: Alberto Baldan Bembo
+author: ALBERTO BALDAN BEMBO
 volume: SME 54
 image: https://f4.bcbits.com/img/a4210656401_10.jpg
 date: November 19, 2018
