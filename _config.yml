@@ -41,11 +41,17 @@ social:
 collections:
   catalog:
     output: true
+  publishing:
+    output: true
 
 # Defaults
 defaults:
   # Set default layout in collections
   - scope:
       type: catalog
+    values:
+      layout: default
+  - scope:
+      type: publishing
     values:
       layout: default
