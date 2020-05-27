@@ -1,0 +1,4 @@
+---
+title: Merchandise
+permalink: merchandise
+---

@@ -12,7 +12,7 @@
         <p class="title">
           <strong>{{ release.title }}</strong>
           <br>
-          {{ release.author }}{% if release.volume %} <i>({{ release.volume }}){% endif %}</i>
+          {{ release.author | default: "&nbsp;" }}{% if release.volume %} <i>({{ release.volume }}){% endif %}</i>
         </p>
       </a>
     </li>

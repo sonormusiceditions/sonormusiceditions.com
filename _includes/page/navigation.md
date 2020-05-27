@@ -1,4 +1,5 @@
 - [Home]({{ site.baseurl }}/)
 - [Catalog]({{ site.baseurl }}/catalog)
 - [Publishing]({{ site.baseurl }}/publishing)
+- [Merchandise]({{ site.baseurl }}/merchandise)
 - [About Us]({{ site.baseurl }}/about)

@@ -3,7 +3,7 @@
 {%- assign also1 = site[page.collection] | sample: 5 -%}
 {%- assign also2 = also1 | where_exp: "item", index_page -%}
 {%- assign also = also2 | where_exp: "item", same_page -%}
-<h2>YOU MAY ALSO LIKE</h2>
+<h2 class="also">YOU MAY ALSO LIKE</h2>
 <ol>
   {% for release in also limit:3 %}
     {%- assign folder = release.path | split: "/" | shift | pop -%}
@@ -16,7 +16,7 @@
         <p class="title">
           <strong>{{ release.title }}</strong>
           <br>
-          {{ release.author }}{% if release.volume %} <i>({{ release.volume }}){% endif %}</i>
+          {{ release.author | default: "&nbsp;" }}{% if release.volume %} <i>({{ release.volume }}){% endif %}</i>
         </p>
       </a>
     </li>

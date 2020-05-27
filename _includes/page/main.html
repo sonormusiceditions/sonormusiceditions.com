@@ -9,7 +9,8 @@
   {% comment %} -------------------- Release -------------------- {% endcomment %}
   <main>
   <h1>{{ page.title }}</h1>
-  <h2>{{ page.author }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
+  <h2>{{ page.author | default: "&nbsp;" }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
+  {%- if page.buy -%}<a class="buy" href="{{ page.buy }}">BUY HERE</a>{%- endif -%}
   {{ content }}
   {% include gallery.html type="release" %}
   {% include also.html %}

@@ -43,6 +43,8 @@ collections:
     output: true
   publishing:
     output: true
+  merchandise:
+    output: true
 
 # Defaults
 defaults:
@@ -53,5 +55,9 @@ defaults:
       layout: default
   - scope:
       type: publishing
+    values:
+      layout: default
+  - scope:
+      type: merchandise
     values:
       layout: default
