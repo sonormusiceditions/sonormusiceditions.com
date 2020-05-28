@@ -8,7 +8,11 @@
     {% assign cover = release.image | default: cover_path %}
     <li>
       <a href="{{ site.baseurl }}{{ release.url }}">
+        {%- if page.collection == "merchandise" -%}
+        <div class="merch-item" style="background-image:url({{ cover }})"></div>
+        {%- else -%}
         <img src="{{ cover }}" alt="{{ release.title }}">
+        {%- endif -%}
         <p class="title">
           <strong>{{ release.title }}</strong>
           <br>

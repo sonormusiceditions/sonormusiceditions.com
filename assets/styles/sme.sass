@@ -83,10 +83,13 @@ ol
     display: inline-block
     margin: .2em
     text-align: center
-    img
+    img, .merch-item
       width: 16em
       height: 16em
       position: relative
+    .merch-item
+      background-size: cover
+      background-position: top
     .title
       font-size: small
       white-space: nowrap
@@ -124,7 +127,7 @@ main
   justify-content: center
   h1, h2
     flex: 1 100%
-  iframe
+  iframe:not([src*=twitter]):not([src*=facebook])
     flex: initial
     margin-bottom: 2.5em
   .gallery.release
@@ -133,3 +136,9 @@ main
     text-align: center
     img
       max-width: 100%
+  .share
+    flex: 1 100%
+    margin-top: 2rem
+    .fb-share-button
+      top: -4px
+      margin-left: .5em

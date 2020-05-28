@@ -13,6 +13,7 @@
   {%- if page.buy -%}<a class="buy" href="{{ page.buy }}">BUY HERE</a>{%- endif -%}
   {{ content }}
   {% include gallery.html type="release" %}
+  {% include share.html %}
   {% include also.html %}
   {% else %}
   {% comment %} -------------------- Page -------------------- {% endcomment %}
