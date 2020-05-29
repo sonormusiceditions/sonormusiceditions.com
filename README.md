@@ -59,7 +59,7 @@ Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descr
 
 Il sito verrà aggiornato entro un minuto.
 
-#### Metadata
+### Metadata
 
 Possibili metadata da inserire nell'intestazione del file, delimitati dai trattini `---`
 
@@ -71,7 +71,7 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
 - `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/spell/spell.md)
 
-#### Copertina
+### Copertina
 
 Specificare l'immagine di copertina (utilizzata nella griglia delle categorie) in uno dei seguenti modi:
 
@@ -82,7 +82,7 @@ Specificare l'immagine di copertina (utilizzata nella griglia delle categorie) i
 
   Esempio [freedom-power.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/1/freedom-power.md)
 
-#### Galleria
+### Galleria
 
 Specificare le immagini della gallery (visualizzate nella pagina del prodotto, alla destra di un eventuale player) in uno dei seguenti modi:
 
