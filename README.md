@@ -8,14 +8,14 @@ Entrare nella cartella della relativa categoria e poi dello specifico prodotto, 
 
 Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
 
-Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
+Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
 
 ## Aggiunta nuovo prodotto
 
 ##### 1. Entrare nella cartella della relativa categoria:
-  - [Catalog](https://github.com/sonormusiceditions/prova/tree/master/_catalog)
-  - [Publishing](https://github.com/sonormusiceditions/prova/tree/master/_merchandise)
-  - [Merchandise](https://github.com/sonormusiceditions/prova/tree/master/_publishing)
+  - [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
+  - [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
+  - [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
 
 ##### 2. Premere `Create new file` in alto a destra:
 
@@ -69,9 +69,9 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `author:` Autore della release oppure sottocategoria, esempio `Apparel`
 - `volume:` Eventuale volume, esempio `SME 1`
 - `date:` Data dell'uscita, utilizzato per ordinare i prodotti nella griglia dell categoria
-- `buy:` Eventuale link esterno `BUY HERE`, esempio [baseball-t-shirt.md](https://github.com/sonormusiceditions/prova/edit/master/_merchandise/baseball-t-shirt/baseball-t-shirt.md)
+- `buy:` Eventuale link esterno `BUY HERE`, esempio [baseball-t-shirt.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_merchandise/baseball-t-shirt/baseball-t-shirt.md)
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
-- `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/spell/spell.md)
+- `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/spell/spell.md)
 
 ## Copertina
 
@@ -79,10 +79,10 @@ Specificare l'immagine di copertina (utilizzata nella griglia delle categorie) i
 
 - Trascinare il file dell'immagine, rinominato con nome `0.jpg`, nella cartella del prodotto.
 
-  Esempio [_catalog/65](https://github.com/sonormusiceditions/prova/tree/master/_catalog/65)
+  Esempio [_catalog/65](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog/65)
 - Se l'immagine è gia pubblicata su internet, copiare il relativo indirizzo `url` nell'intestazione del file usando il metadata `image: ...`.
 
-  Esempio [freedom-power.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/1/freedom-power.md)
+  Esempio [freedom-power.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/1/freedom-power.md)
 
 ## Galleria
 
@@ -90,7 +90,7 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
 
 - Trascianre i file delle immagini, rinominati con nomi `1.jpg`, `2.jpg` ..., nella cartella del prodotto.
 
-  Esempio [_catalog/54](https://github.com/sonormusiceditions/prova/tree/master/_catalog/54)
+  Esempio [_catalog/54](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog/54)
 - Se le immagini sono già pubblicate su internet, copiare i relativi indirizzi `url` nell'intestazione del file usando il metadata `gallery: ...` ed elencando gli indirizzi delle immagini usando il trattino `-`.
   
   Esempio
