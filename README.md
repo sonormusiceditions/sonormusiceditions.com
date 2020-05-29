@@ -1,13 +1,23 @@
 # Sonor Music Editions
 
-### Aggiungere nuovo prodotto
+### Modifica prodotto esistente
 
-1. Entrare nella cartella della relativa categoria.
+Entrare nella cartella della relativa categoria e poi dello specifico prodotto, cliccare sul file `.md` e modificarlo premendo il simbolo della matita in alto a destra.
+
+Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
+
+Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
+
+### Aggiunta nuovo prodotto
+
+##### 1. Entrare nella cartella della relativa categoria:
   - [Catalog](https://github.com/sonormusiceditions/prova/tree/master/_catalog)
   - [Publishing](https://github.com/sonormusiceditions/prova/tree/master/_merchandise)
   - [Merchandise](https://github.com/sonormusiceditions/prova/tree/master/_publishing)
 
-1. Premere `Create new file` in alto a destra inserire: il nome della cartella del prodotto e il nome della pagina web (con estensione markdown `.md`), separati da uno slash `/`.
+##### 2. Premere `Create new file` in alto a destra:
+
+Inserire nel campo `Name your file...` il nome della cartella del prodotto e il nome della pagina web (con estensione markdown `.md`), separati da uno slash `/`.
 
   Esempi
 
@@ -15,7 +25,9 @@
   - `10-situazioni/10-situazioni.md`
   - `baseball-t-shirt/baseball-t-shirt.md`
 
-1. Nella finestra `<> Edit new file` inserire: i metadata per il prodotto, la descrizione e l'eventuale codice player embed. In caso di testi lunghi, cambiare la visualizzazione tramite la tendina `No wrap` in alto a destra.
+##### 3. Nella finestra `<> Edit new file` inserire le info prodotto:
+
+Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descrizione prodotto e l'eventuale codice player embed. In caso di testi lunghi, cambiare la visualizzazione tramite la tendina `No wrap` in alto a destra.
   
   Esempi
   
@@ -43,7 +55,9 @@
   Descrizione
   ```
   
-1. Per pubblicare la pagina premere `Commit new file` in fondo alla pagina. Il sito verrà aggiornato entro un minuto.
+##### 4. Per pubblicare la pagina premere `Commit new file` in fondo alla pagina:
+
+Il sito verrà aggiornato entro un minuto.
 
 #### Metadata
 
@@ -85,10 +99,3 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
   - indirizzo url seconda immagine
   ```
 
-### Modificare pagina prodotto
-
-Entrare nella cartella della relativa categoria e poi dello specifico prodotto, cliccare sul file `.md` e modificarlo premendo il simbolo della matita in alto a destra.
-
-Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
-
-Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
