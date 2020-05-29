@@ -4,11 +4,20 @@ https://sonormusiceditions.github.io
 
 ## Modifica prodotto esistente
 
-Entrare nella cartella della relativa categoria e poi dello specifico prodotto, cliccare sul file `.md` e modificarlo premendo il simbolo della matita in alto a destra.
+##### 1. Entrare nella cartella della relativa categoria:
+  - [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
+  - [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
+  - [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
 
-Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
+##### 2. Entrare nella cartella della specifica release.
+
+Cliccare sul file `.md` ed entrare nella modalità di modifica premendo il simbolo della matita in alto a destra.
 
 Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
+
+##### 3. Pubblicare le modifiche apportate premendo `Commit changes` in fondo alla pagina.
+
+_Il sito verrà aggiornato entro un minuto._
 
 ## Aggiunta nuovo prodotto
 
@@ -59,7 +68,7 @@ Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descr
   
 ##### 4. Per pubblicare la pagina premere `Commit new file` in fondo alla pagina:
 
-Il sito verrà aggiornato entro un minuto.
+_Il sito verrà aggiornato entro un minuto._
 
 ## Metadata
 
