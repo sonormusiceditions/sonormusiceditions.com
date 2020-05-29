@@ -85,8 +85,10 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
   - indirizzo url seconda immagine
   ```
 
-### Modificare nuovo prodotto
+### Modificare pagina prodotto
 
 Entrare nella cartella della relativa categoria e poi dello specifico prodotto, cliccare sul file `.md` e modificarlo premendo il simbolo della matita in alto a destra.
+
 Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
+
 Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
