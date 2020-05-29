@@ -88,7 +88,7 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
 
 - Trascianre i file delle immagini, rinominati con nomi `1.jpg`, `2.jpg` ..., nella cartella del prodotto.
 
-  Esempio [_catalog/65](https://github.com/sonormusiceditions/prova/tree/master/_catalog/65)
+  Esempio [_catalog/54](https://github.com/sonormusiceditions/prova/tree/master/_catalog/54)
 - Se le immagini sono già pubblicate su internet, copiare i relativi indirizzi `url` nell'intestazione del file usando il metadata `gallery: ...` ed elencando gli indirizzi delle immagini usando il trattino `-`.
   
   Esempio
