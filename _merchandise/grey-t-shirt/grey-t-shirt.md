@@ -1,6 +1,6 @@
 ---
-author: Apparel
 title: Baseball T-SHIRT
+author: Apparel
 date: September 18, 2019
 buy: https://sonormusiceditions.bandcamp.com/merch/sonor-music-editions-light-grey-t-shirt
 ---
