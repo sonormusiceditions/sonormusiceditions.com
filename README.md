@@ -8,7 +8,7 @@ Per pubblicare le modifiche premere `Commit changes` in fondo alla pagina.
 
 Esempio [IL_DIO_SOTTO_LA_PELLE_OST.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/65/IL_DIO_SOTTO_LA_PELLE_OST.md)
 
-### Aggiunta nuovo prodotto
+## Aggiunta nuovo prodotto
 
 ##### 1. Entrare nella cartella della relativa categoria:
   - [Catalog](https://github.com/sonormusiceditions/prova/tree/master/_catalog)
@@ -59,7 +59,7 @@ Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descr
 
 Il sito verrà aggiornato entro un minuto.
 
-### Metadata
+## Metadata
 
 Possibili metadata da inserire nell'intestazione del file, delimitati dai trattini `---`
 
@@ -71,14 +71,14 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
 - `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/spell/spell.md)
 
-### Copertina
+## Copertina
 
 Specificare l'immagine di copertina (utilizzata nella griglia delle categorie) in uno dei seguenti modi:
 
 - Trascinare il file dell'immagine, rinominato con nome `0.jpg`, nella cartella del prodotto.
 
   Esempio [_catalog/65](https://github.com/sonormusiceditions/prova/tree/master/_catalog/65)
-- Se l'immagine è gia pubblicata su internet, incollare il relativo indirizzo `url` nell'intestazione del file usando il metadata `image: ...`.
+- Se l'immagine è gia pubblicata su internet, copiare il relativo indirizzo `url` nell'intestazione del file usando il metadata `image: ...`.
 
   Esempio [freedom-power.md](https://github.com/sonormusiceditions/prova/edit/master/_catalog/1/freedom-power.md)
 
@@ -89,7 +89,7 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
 - Trascianre i file delle immagini, rinominati con nomi `1.jpg`, `2.jpg` ..., nella cartella del prodotto.
 
   Esempio [_catalog/65](https://github.com/sonormusiceditions/prova/tree/master/_catalog/65)
-- Se le immagini sono già pubblicate su internet, incollare i relativi indirizzi `url` nell'intestazione del file usando il metadata `gallery: ...` ed elencando gli indirizzi alle immagini usando il trattino `-`.
+- Se le immagini sono già pubblicate su internet, copiare i relativi indirizzi `url` nell'intestazione del file usando il metadata `gallery: ...` ed elencando gli indirizzi delle immagini usando il trattino `-`.
   
   Esempio
   
