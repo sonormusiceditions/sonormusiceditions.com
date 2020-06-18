@@ -1,7 +1,7 @@
 ---
 author: CLAUDIO TALLINO
 title: SPELL (DOLCE MATTATOIO) OST
-date: June 28, 2019
+date: 28 June 2019
 image: https://f4.bcbits.com/img/a0387109346_10.jpg
 volume: Sonor 13
 ---
