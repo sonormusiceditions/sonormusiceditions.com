@@ -1,6 +1,6 @@
 ---
 title: MUSICA PER COMMENTI SONORI
-author: GIANCARLO GAZZANI
+author: Giancarlo Gazzani
 volume: SME 69
 date: 18 June 2020
 image: https://f4.bcbits.com/img/a3886167048_10.jpg
