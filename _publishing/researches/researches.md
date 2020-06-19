@@ -1,6 +1,6 @@
 ---
 title: RESEARCHES
-author: Giuliano Sorgini
+author: GIULIANO SORGINI
 date: 16 may 2019
 ---
 Obscure, sweeping and edgy theme music produced by maestro and percussionist Giuliano Sorgini we assembled in a unique album. A rich set of different musical moods from tough Disco Funk to insanely dark and intense backgrounds.
