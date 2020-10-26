@@ -5,9 +5,9 @@ https://sonormusiceditions.github.io
 ## Modifica prodotto esistente
 
 ##### 1. Entrare nella cartella della relativa categoria:
-  - [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
-  - [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
-  - [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
+- [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
+- [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
+- [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
 
 ##### 2. Entrare nella cartella della specifica release.
 
@@ -22,9 +22,9 @@ _Il sito verrà aggiornato entro un minuto._
 ## Aggiunta nuovo prodotto
 
 ##### 1. Entrare nella cartella della relativa categoria:
-  - [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
-  - [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
-  - [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
+- [Catalog](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog)
+- [Publishing](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_merchandise)
+- [Merchandise](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_publishing)
 
 ##### 2. Premere `Create new file` in alto a destra:
 
@@ -102,11 +102,11 @@ Specificare le immagini della gallery (visualizzate nella pagina del prodotto, a
   Esempio [_catalog/54](https://github.com/sonormusiceditions/sonormusiceditions.github.io/tree/master/_catalog/54)
 - Se le immagini sono già pubblicate su internet, copiare i relativi indirizzi `url` nell'intestazione del file usando il metadata `gallery: ...` ed elencando gli indirizzi delle immagini usando il trattino `-`.
   
-  Esempio
-  
-  ```yml
-  gallery:
-  - indirizzo url prima immagine
-  - indirizzo url seconda immagine
-  ```
+Esempio
+
+```yml
+gallery:
+- indirizzo url prima immagine
+- indirizzo url seconda immagine
+```
 
