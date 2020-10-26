@@ -28,43 +28,43 @@ _Il sito verrà aggiornato entro un minuto._
 
 ##### 2. Premere `Create new file` in alto a destra:
 
-Inserire nel campo `Name your file...` il nome della cartella del prodotto e il nome della pagina web (con estensione markdown `.md`), separati da uno slash `/`.
+Nel campo `Name your file...` inserire 1) il nome della cartella del prodotto e 2) il nome della pagina web (con estensione markdown `.md`), separati da uno slash `/`.
 
-  Esempi
+Esempi
 
-  - `65/IL_DIO_SOTTO_LA_PELLE_OST.md`
-  - `10-situazioni/10-situazioni.md`
-  - `baseball-t-shirt/baseball-t-shirt.md`
+- `65/IL_DIO_SOTTO_LA_PELLE_OST.md`
+- `10-situazioni/10-situazioni.md`
+- `baseball-t-shirt/baseball-t-shirt.md`
 
 ##### 3. Nella finestra `<> Edit new file` inserire le info prodotto:
 
 Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descrizione prodotto e l'eventuale codice player embed. In caso di testi lunghi, cambiare la visualizzazione tramite la tendina `No wrap` in alto a destra.
   
-  Esempi
-  
-  ```yml
-  ---
-  title: IL DIO SOTTO LA PELLE OST
-  author: PIERO PICCIONI
-  volume: SME 65
-  date: 3 Feb 2020
-  ---
-  
-  Descrizione...
-  
-  Codice player embed...
-  ```
-  
-  ```yml
-  ---
-  title: Baseball T-SHIRT
-  author: Apparel
-  date: September 18, 2019
-  buy: https://sonormusiceditions.bandcamp.com/merch/sonor-music-editions-light-grey-t-shirt
-  ---
-  
-  Descrizione
-  ```
+Esempi
+
+```yml
+---
+title: IL DIO SOTTO LA PELLE OST
+author: PIERO PICCIONI
+volume: SME 65
+date: 3 Feb 2020
+---
+
+Descrizione...
+
+Codice player embed...
+```
+
+```yml
+---
+title: Baseball T-SHIRT
+author: Apparel
+date: September 18, 2019
+buy: https://sonormusiceditions.bandcamp.com/merch/sonor-music-editions-light-grey-t-shirt
+---
+
+Descrizione
+```
   
 ##### 4. Per pubblicare la pagina premere `Commit new file` in fondo alla pagina:
 
