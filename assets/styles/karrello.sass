@@ -1,0 +1,72 @@
+---
+---
+// VAR
+$arancio: #dd5032
+$maron: #270e09
+$giallo: #FFB241
+$white: WhiteSmoke
+$width: 50em
+
+// due to normalize: was inherit (white inside <main>)
+button, input, optgroup, select, textarea
+  color: initial
+
+// links
+#continue-shopping,
+#shipping-box
+  a:link,
+  a:visited
+    color: $arancio
+  a:hover
+    color: $white
+
+a#cart-link
+  border-bottom: 2px solid #FFB241
+  font-size: large
+  color: $maron
+  font-weight: bold
+  position: absolute
+  top: 1rem
+  right: 1rem
+  &:hover
+    color: $giallo
+
+// buy box
+fieldset#buy_box
+  border: 1px solid $arancio
+  p:first-of-type
+    margin-top: 0
+  p:last-of-type
+    margin-bottom: 0
+  legend
+    padding: 0 .5rem
+    font-weight: bold
+    color: $arancio
+  span
+    color: $giallo
+
+// checkout and cart table
+table#cart,
+table#list
+  border-collapse: collapse
+  margin-bottom: 3rem
+  span:not(#subtotal)
+    display: block
+    margin: .3rem 0
+  td,
+  th
+    padding: 1rem
+  tbody td
+    text-align: center
+    &:first-child
+      text-align: left
+  tbody tr:not(:last-child) td
+    border-bottom: 1px solid $arancio
+  thead, tfoot
+    background: darken($arancio, 30%)
+  tr.empty-cart:not(:only-child)
+    display: none
+
+// paypal injected button
+#paypal-button .paypal-button-logo
+  background-color: white
