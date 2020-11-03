@@ -16,7 +16,7 @@ button, input, optgroup, select, textarea
 #shipping-box
   a:link,
   a:visited
-    color: $arancio
+    color: $giallo
   a:hover
     color: $white
 
@@ -58,6 +58,12 @@ table#list
     padding: 1rem
   tbody td
     text-align: center
+    a
+      color: $giallo
+      &:hover
+        text-decoration: underline
+      &:active
+        color: $arancio
     &:first-child
       text-align: left
   tbody tr:not(:last-child) td
