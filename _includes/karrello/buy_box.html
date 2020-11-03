@@ -1,0 +1,19 @@
+{%- assign karrello = site.data.karrello -%}
+{%- assign support = page.support | default: "lp" -%}
+{%- assign price = page.price | default: karrello.price[support].few -%}
+{%- assign wholesale = page.wholesale.price | default: karrello.price[support].many -%}
+<fieldset id="buy_box">
+  <legend>BUY</legend>
+  <p>Volume: <span id="volume">{{ page.volume | default: "-" }}</span>&nbsp;&nbsp;&nbsp;Support: <span id="support">{{ support | upcase }}</span>&nbsp;&nbsp;&nbsp;Price: <span>{{ karrello.currency.symbol }} <span id="price">{{ price }}</span></span></p>
+  {%- if karrello.wholesale -%}
+  <p>Wholesale price ({{ karrello.wholesale.price | default: 3 }}+): <span>{{ karrello.currency.symbol }} <span id="wholesale">{{ wholesale }}</span></span></p>
+  {%- endif -%}
+  <p>Select quantity:
+  <select name="quantity" id="quantity">
+    {% for i in (0..karrello.max) %}
+      <option value="{{ i }}">{{ i }}</option>
+    {% endfor %}
+  </select>&nbsp;&nbsp;&nbsp;Subtotal: <span>{{ karrello.currency.symbol }} <span id="subtotal">0</span></span>&nbsp;&nbsp;&nbsp;<button type="button" id="addcart">Add to Cart</button></p>
+  <span id="item" hidden>{{ page.title }} - {{ page.author }}</span>
+  <span id="link" hidden>{{ site.baseurl }}{{ page.url }}</span>
+</fieldset>

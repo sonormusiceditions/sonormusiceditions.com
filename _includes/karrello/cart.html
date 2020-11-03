@@ -1,0 +1,22 @@
+<table id="cart">
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Price</th>
+      <th>Remove</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="empty-cart"><td colspan='3'>No Items</td></tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td></td>
+      <td>Subtotal: {{ site.data.karrello.currency.symbol }} <span id="subtotal">0</span></td>
+      <td></td>
+    </tr>
+  </tfoot>
+</table>
+<p id="continue-shopping">
+  <a href="{{ site.baseurl }}/">Continue Shopping</a>
+</p>

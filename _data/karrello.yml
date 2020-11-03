@@ -1,0 +1,44 @@
+merchant: armagideon.times@gmail.com
+
+# Currency use three-character ISO-4217 codes
+currency:
+  code: EUR
+  symbol: €
+
+# Collections enabled to sell
+collections:
+  - catalog
+
+# Items number for wholesale prices and shipping
+# wholesale:
+#   price: 3
+#   shipping: 6
+
+# Max item quantity
+max: 10
+
+# Prices for every support
+# few: base price
+# many: price for wholesale
+price:
+  lp:
+    few: 25
+    many: 25
+
+# Shipping prices
+shipping:
+  italy:
+    name: Italy
+    few: 8
+  europe:
+    few: 13
+    name: Europe (except Switzerland)
+  usa_russia:
+    name: USA, Russia
+    few: 15
+  china_japan:
+    name: Switzerland, China, Brazil, Canada, Japan
+    few: 16
+  world:
+    name: Rest of the world
+    few: 18
