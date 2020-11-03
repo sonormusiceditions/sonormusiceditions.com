@@ -1,6 +1,13 @@
 # Sonor Music Editions
 
-https://sonormusiceditions.github.io
+**Sommario**
+
+- [Modifica prodotto esistente](https://github.com/sonormusiceditions/sonormusiceditions.github.io#modifica-prodotto-esistente)
+- [Aggiunta nuovo prodotto](https://github.com/sonormusiceditions/sonormusiceditions.github.io#aggiunta-nuovo-prodotto)
+- [Metadata](https://github.com/sonormusiceditions/sonormusiceditions.github.io#metadata)
+- [Copertina](https://github.com/sonormusiceditions/sonormusiceditions.github.io#copertina)
+- [Galleria](https://github.com/sonormusiceditions/sonormusiceditions.github.io#galleria)
+- [Karrello](https://github.com/sonormusiceditions/sonormusiceditions.github.io#karrello)
 
 ## Modifica prodotto esistente
 
@@ -38,7 +45,7 @@ Esempi
 
 ##### 3. Nella finestra `<> Edit new file` inserire le info prodotto:
 
-Inserire i metadata per il prodotto delimitandoli con i trattini `---`, la descrizione prodotto e l'eventuale codice player embed. In caso di testi lunghi, cambiare la visualizzazione tramite la tendina `No wrap` in alto a destra.
+Inserire i metadata per il prodotto delimitandoli con i trattini `---`, di seguito la descrizione prodotto e l'eventuale codice player embed. In caso di testi lunghi, cambiare la visualizzazione tramite la tendina `No wrap` in alto a destra.
   
 Esempi
 
@@ -66,7 +73,7 @@ buy: https://sonormusiceditions.bandcamp.com/merch/sonor-music-editions-light-gr
 Descrizione
 ```
   
-##### 4. Per pubblicare la pagina premere `Commit new file` in fondo alla pagina:
+##### 4. Pubblicare la pagina premendo `Commit new file` in fondo alla pagina:
 
 _Il sito verrà aggiornato entro un minuto._
 
@@ -78,9 +85,12 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `author:` Autore della release oppure sottocategoria, esempio `Apparel`
 - `volume:` Eventuale volume, esempio `SME 1`
 - `date:` Data dell'uscita, utilizzato per ordinare i prodotti nella griglia dell categoria, esempio `November 20, 2013` oppure `3 Feb 2020`
+- `support:` Supporto del prodotto (lp, dlp, ...), se non specificato sarà `lp`
 - `buy:` Eventuale link esterno `BUY HERE`, esempio [baseball-t-shirt.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_merchandise/baseball-t-shirt/baseball-t-shirt.md)
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
 - `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/spell/spell.md)
+- `price:` Eventuale prezzo del prodotto, se è diverso dal prezzo di base definito nella configurazione [karrello](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_data/karrello.yml)
+- `soldout: true` Per escludere un prodotto dalla vendita
 
 ## Copertina
 
@@ -110,3 +120,12 @@ gallery:
 - indirizzo url seconda immagine
 ```
 
+## Karrello
+
+Il file di configurazione è [`_data/karrello.yml`](https://github.com/sonormusiceditions/sonormusiceditions.github.io/blob/main/_data/karrello.yml) e definisce nell'ordine:
+- L'indirizzo email Paypal per ricevere i pagamenti
+- Codice e simbolo della valuta
+- La lista dei cataloghi con prodotti in vendita
+- La quantità massima acquistabile di un prodotto
+- Il prezzo base dei vari formati (modificabile singolarmente nei metadati del prodotto tramite `price: ...`)
+- I prezzi di spedizioni per le varie zone
