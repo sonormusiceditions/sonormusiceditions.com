@@ -4,6 +4,7 @@ title: RIFLESSI
 date: December 1, 2015
 image: https://f4.bcbits.com/img/a1497352606_10.jpg
 volume: SME 14
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

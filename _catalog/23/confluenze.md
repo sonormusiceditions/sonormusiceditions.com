@@ -4,6 +4,7 @@ title: FONIT 7007 - CONFLUENZE
 date: May 13, 2016
 image: https://f4.bcbits.com/img/a3756787138_10.jpg
 volume: SME 23
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

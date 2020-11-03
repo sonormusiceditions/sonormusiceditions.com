@@ -4,6 +4,7 @@ title: "L'UOMO DAGLI OCCHI DI GHIACCHIO"
 date: December 15, 2014
 image: https://f4.bcbits.com/img/a3504667486_10.jpg
 volume: SME 6
+soldout: true
 ---
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies. Includes a never seen A3 poster.
 

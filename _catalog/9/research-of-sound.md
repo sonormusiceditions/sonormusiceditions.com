@@ -4,6 +4,7 @@ title: RESEARCH OF SOUND
 date: December 16, 2014
 image: https://f4.bcbits.com/img/a3429848768_10.jpg
 volume: SME 9
+soldout: true
 ---
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.
 

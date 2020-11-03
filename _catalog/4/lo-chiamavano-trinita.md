@@ -4,6 +4,7 @@ title: "LO CHIAMAVANO TRINITÀ"
 date: May 2, 2014
 image: https://f4.bcbits.com/img/a0778594502_10.jpg
 volume: SME 4
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality and unpubished poster. 

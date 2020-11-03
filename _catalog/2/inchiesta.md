@@ -4,6 +4,7 @@ title: INCHIESTA
 date: November 20, 2013
 image: https://f4.bcbits.com/img/a1187319132_10.jpg
 volume: SME 2
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

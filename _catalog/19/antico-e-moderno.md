@@ -4,6 +4,7 @@ title: C 364 - ANTICO E MODERNO
 date: May 13, 2016
 image: https://f4.bcbits.com/img/a1368097156_10.jpg
 volume: SME 19
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies. 

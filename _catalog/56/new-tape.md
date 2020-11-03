@@ -4,6 +4,7 @@ title: NEW TAPE
 date: November 19, 2018
 volume: SME 56
 image: https://f4.bcbits.com/img/a2517620160_10.jpg
+soldout: true
 ---
 
 Founded in early 70s by historical Rai TV trumpeter and composer Cicci Santucci (Looking Around, On The Underground Road etc.), New Tape grown up during the golden period of Italian music production and was dedicated to experimentation of new forms of sound, always hailing from the solid Jazz basis of the musicians and theme music inspiration. Andrea Galtieri aka Cavalier Piscopo sequenced the very best shots from the whole label production including exclusive liner notes, with an explosive mix of Jazz-Rock, Bossa, spellbinding groove and raw Experimental stuff.  

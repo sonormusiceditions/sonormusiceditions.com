@@ -4,6 +4,7 @@ author: Alessandro Alessandroni
 volume: SME 68
 date: 15 May 2020
 image: https://f4.bcbits.com/img/a0435234573_10.jpg
+soldout: true
 ---
 Better known as the FARFALLA album (The Butterfly) for his outstanding artwork, this record is a true holy grail and worldwide recognized as some of the finest Library music ever recorded. Originally released on few hundred copies this is among the rarest and surely top sough-after Italian Library LPs out there by the famed composer Alessandro Alessandroni. Just the cover alone would be enough to define his beauty with such a mind-blowing artwork; the music ranges from Jazz to Psychedelia and huge Easy Listening / Lounge themes, massive Scat vocals by maestro's vocal ensembe I CANTORI MODERNI to just about everything you can imagine. Legendary Italian top notch album on the cult Sermi label, featuring the most refined Lounge music of the field (along with his other grail 'PRISMA SONORO'), groovy Psychedelic Beat with Alessandroni's infamous guitars and other musical delights.
 

@@ -4,6 +4,7 @@ title: AMERICA AMORE AMARO
 date: November 30, 2015
 image: https://f4.bcbits.com/img/a1738288162_10.jpg
 volume: SME 13
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

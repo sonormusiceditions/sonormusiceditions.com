@@ -4,6 +4,7 @@ title: I MARC 4 - GLP 1004
 date: December 15, 2014
 image: https://f4.bcbits.com/img/a1186749504_10.jpg
 volume: SME 5
+soldout: true
 ---
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.
 

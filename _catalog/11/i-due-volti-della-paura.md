@@ -4,6 +4,7 @@ title: "I DUE VOLTI DELLA PAURA"
 date: June 12, 2015
 image: https://f4.bcbits.com/img/a0773832961_10.jpg
 volume: SME 11
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

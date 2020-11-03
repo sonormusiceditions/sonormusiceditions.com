@@ -4,6 +4,7 @@ title: UNDERGROUND
 date: May 2, 2014
 image: https://f4.bcbits.com/img/a0467657801_10.jpg
 volume: SME 3
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

@@ -4,6 +4,7 @@ title: WILLIAM ANTONINI E LA SUA ORCHESTRA
 date: September 15, 2016
 image: https://f4.bcbits.com/img/a3961046053_10.jpg
 volume: SME 26
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

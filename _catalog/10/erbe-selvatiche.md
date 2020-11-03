@@ -4,6 +4,7 @@ title: ERBE SELVATICHE
 date: June 12, 2015
 image: https://f4.bcbits.com/img/a3184464890_10.jpg
 volume: SME 10
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

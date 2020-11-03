@@ -4,6 +4,7 @@ title: AL CINEMA CON PIERO PICCIONI
 date: April 30, 2018
 image: https://f4.bcbits.com/img/a3594655647_10.jpg
 volume: SME 49
+soldout: true
 ---
 
 We're excited to present the reissue of the legendary session "AL CINEMA CON PIERO PICCIONI", originally composed of 2 volumes and released on the famed RCA SP series in 1968 - compiled with a curated selection of the best tracks and presented with renewed striking artwork. 2 absolutely cult and impossible to find albums of Italian discography released in a unique LP strictly limited to 300 copies, carefully remastered by from the original RCA master tapes, with heavy cardboard sleeve like the original vinyl editions. Includes original soundtrack of the films "IL TERRORISTA", "LE MANI SULLA CITTÀ", "NUDE, CALDE E PURE", "LA DONNA E' UNA COSA MERAVIGLIOSA", "CHI LAVORA E' PERDUTO" (Tinto Brass), with the huge Jazz imprint of maestro Piccioni.

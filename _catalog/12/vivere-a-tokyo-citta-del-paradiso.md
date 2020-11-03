@@ -4,6 +4,7 @@ title: "VIVERE A: TOKYO CITTÀ DEL PARADISO"
 date: June 12, 2015
 image: https://f4.bcbits.com/img/a0932699724_10.jpg
 volume: SME 12
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

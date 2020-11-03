@@ -4,6 +4,7 @@ title: CRISI
 date: May 13, 2016
 image: https://f4.bcbits.com/img/a3972574787_10.jpg
 volume: SME 24
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

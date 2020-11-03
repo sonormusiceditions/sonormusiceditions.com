@@ -4,6 +4,7 @@ title: SESSO MATTO OST
 date: May 13, 2016
 image: https://f4.bcbits.com/img/a0864608568_10.jpg
 volume: SME 25
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

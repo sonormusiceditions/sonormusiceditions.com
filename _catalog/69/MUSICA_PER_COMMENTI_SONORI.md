@@ -4,6 +4,7 @@ author: Giancarlo Gazzani
 volume: SME 69
 date: 18 June 2020
 image: https://f4.bcbits.com/img/a3886167048_10.jpg
+soldout: true
 ---
 
 An extraordinary Italian Library recording originally released on the Costanza output in 1974 – series “Musica Per Commenti Sonori” with a mispressed catalogue number. The unveiled twin session of legendary Stefano Torossi’s FEELINGS album featuring the same line-up and same composers of that lucky production including music and direction by Giancarlo Gazzani and compositions made by Sandro Brugnolini and Stefano Torossi himself. After the release with the wrong catalogue number that was actually belonging to another Costanza recording, the album was immediately withdrawn, making it a real obscure item and never appeared for at least 40 years. According to original artists, this was originally recorded in Rome and Milan between february and july 1974. Music is on the same line of FEELINGS album with mental Jazz-Funk grooveness but with less orchestral elements and more underground vein: you can listen to the insane “ABBANDONO” that’s a slower version of RUNNING FAST, the heavy Jazz-Funk bangers “SHIFT” and “PERIFRASI”, the punishing Jazz-Rock of “FACCIA DI BRONZO” similar to FEARING MUCH, the incredible uptempo funky-jazz “GENIO E SREGOLATEZZA” and so on. Dreamy recording!

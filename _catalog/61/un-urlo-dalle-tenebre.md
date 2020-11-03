@@ -4,6 +4,7 @@ author: Giuliano Sorgini
 volume: SME 61
 image: https://f4.bcbits.com/img/a2548398482_10.jpg
 date: 28 Nov 2019
+soldout: true
 ---
 
 The previously unreleased on vinyl original full soundtrack of the occult 1975 film directed by Elio Pannacciò.

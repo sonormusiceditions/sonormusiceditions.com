@@ -4,6 +4,7 @@ title: "UN UOMO DALLA PELLE DURA"
 date: December 15, 2014
 image: https://f4.bcbits.com/img/a3178634605_10.jpg
 volume: SME 7
+soldout: true
 ---
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies. Includes 2 never seen A3 poster.
 

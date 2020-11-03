@@ -4,6 +4,7 @@ title: SWITCHED ON NAPLES
 date: September 16, 2016
 image: https://f4.bcbits.com/img/a3763640661_10.jpg
 volume: SME 27
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

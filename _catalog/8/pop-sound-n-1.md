@@ -4,6 +4,7 @@ title: POP-SOUND N.1
 date: December 15, 2014
 image: https://f4.bcbits.com/img/a3210003083_10.jpg
 volume: SME 8
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

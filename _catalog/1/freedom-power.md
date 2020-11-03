@@ -4,6 +4,7 @@ title: FREEDOM POWER
 date: November 20, 2013
 image: https://f4.bcbits.com/img/a3158282036_10.jpg
 volume: SME 1
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.

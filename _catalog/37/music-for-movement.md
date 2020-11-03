@@ -4,6 +4,7 @@ title: MUSIC FOR MOVEMENT
 date: June 15, 2017
 image: https://f4.bcbits.com/img/a2885112699_10.jpg
 volume: SME 37
+soldout: true
 ---
 
 Sonor Music Editions is thrilled to release another terrific jam and a very obscure Italian Library record originally released in 1969 on RRC label (Droga, Traffico, Viaggio Attraverso I Problemi Dell'Uomo series etc.). Music is signed by the great guitar players and composers Angelo Baroncini and Bruno Battisti D'Amario, unmissable guitar man of Maestro Ennio Morricone. CRAZY early Fuzz beats with fast Western swings, Experimental Rock distractions, musical rhythmic movements with totally insane acid guitar & sitar riffs and a huge Underground Psychedelic mood. A truly inspired and deep session recorded for some impossible TV synchronisation purpose. Holy grail alert and original sleazy STEREO recording restored sound.
