@@ -12,7 +12,7 @@
   <h2>{{ page.author | default: "&nbsp;" }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
   {%- if page.buy -%}<a class="buy" href="{{ page.buy }}">BUY HERE</a>{%- endif -%}
   {% comment %} buy box {% endcomment %}
-  {%- if site.data.karrello.collections contains page.collection -%}
+  {%- if site.data.karrello.collections contains page.collection and page.support != "digital" -%}
     {%- if page.soldout -%}
       <p>SOLDOUT</p>
     {%- else -%}

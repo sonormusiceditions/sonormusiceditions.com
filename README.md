@@ -85,7 +85,7 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `author:` Autore della release oppure sottocategoria, esempio `Apparel`
 - `volume:` Eventuale volume, esempio `SME 1`
 - `date:` Data dell'uscita, utilizzato per ordinare i prodotti nella griglia dell categoria, esempio `November 20, 2013` oppure `3 Feb 2020`
-- `support:` Supporto del prodotto (lp, dlp, ...), se non specificato sarà `lp`
+- `support:` Supporto del prodotto (lp, dlp, ...), se non specificato sarà `lp`. Se il supporto è `digital` viene escluso dalla vendita.
 - `buy:` Eventuale link esterno `BUY HERE`, esempio [baseball-t-shirt.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_merchandise/baseball-t-shirt/baseball-t-shirt.md)
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
 - `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/spell/spell.md)
