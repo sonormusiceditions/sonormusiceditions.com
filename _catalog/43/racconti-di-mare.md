@@ -4,6 +4,7 @@ title: RACCONTI DI MARE
 date: September 29, 2017
 image: https://f4.bcbits.com/img/a1947675483_10.jpg
 volume: SME 43
+support: LP+CD
 price: 28.9
 ---
 
