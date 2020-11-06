@@ -4,7 +4,7 @@ title: AFRICA MINIMA
 date: December 1, 2015
 image: https://f4.bcbits.com/img/a3109669182_10.jpg
 volume: SME 18
-price: 45
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 400 copies.
