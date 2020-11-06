@@ -3,9 +3,9 @@ title: BLACK SOUND FROM WHITE PEOPLE
 author: AUGUSTO MARTELLI
 volume: SME 71
 date: 21 Sep 2020
+image: https://f4.bcbits.com/img/0021565612_10.jpg
 price: 24
 ---
-image: https://f4.bcbits.com/img/0021565612_10.jpg
 
 Sonor Music Editions is happy to launch the first official vinyl reissue of one of the finest and sought-after Latin Jazz albums ever made in Italy in the 1970s - "BLACK SOUND FROM WHITE PEOPLE" by the prince of Italian Funk, Augusto Martelli.
 An amazing, top-notch recording from 1972 that also includes stellar players like Tullio De Piscopo's rolling drums, sleazy flute by Giancarlo Barigozzi and dope basslines by Pino Presti. For sure the pinnacle of Augusto Martelli's music and the best album from his long career as composer, conductor, arranger and TV presenter. "Black Sound From White People" delivers a plenty of groovy euro Funk tracks played with a clear black music influence, from swirling Jazz-Funk to Fusion, percussive jams with more Samba and Latin beats, funky Latin Jazz chock-full of Psychedelic flutes. A really essential piece from the Italian Funk music production.
