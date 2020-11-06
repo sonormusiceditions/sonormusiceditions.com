@@ -4,6 +4,7 @@ title: GRAND TOUR
 date: December 1, 2015
 image: https://f4.bcbits.com/img/a3161642753_10.jpg
 volume: SME 17
+soldout: true
 ---
 
 Comes on 180gr. vinyl with improved sound quality. Limited Edition 500 copies.
