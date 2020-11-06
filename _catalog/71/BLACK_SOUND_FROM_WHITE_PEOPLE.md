@@ -3,6 +3,7 @@ title: BLACK SOUND FROM WHITE PEOPLE
 author: AUGUSTO MARTELLI
 volume: SME 71
 date: 21 Sep 2020
+price: 24
 ---
 image: https://f4.bcbits.com/img/0021565612_10.jpg
 
