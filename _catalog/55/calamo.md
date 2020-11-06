@@ -4,6 +4,7 @@ title: CALAMO OST
 date: November 19, 2018
 volume: SME 55
 image: https://f4.bcbits.com/img/a3080243676_10.jpg
+support: LP+CD
 price: 25.9
 ---
 
