@@ -4,6 +4,8 @@ author: FILIPPO TRECCA
 volume: SME 14
 image: https://f4.bcbits.com/img/a0218598963_10.jpg
 date: 30 Sep 2019
+support: 12''
+price: 18
 ---
 
 The legendary Hip Hop / Dusty Fingers heavy tune "COL FIATO IN GOLA" by maestro Filippo Trecca, originally released in 1978 for the Giallo TV mini series "Diario Di Giudice" and directed by Dante Troisi. Sampled by tons of artists, this track represents a true holy grail for Italian 
