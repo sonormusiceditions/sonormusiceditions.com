@@ -16,6 +16,9 @@ plugins:
 # To have /collection/page/ links
 permalink: pretty
 
+# Show future posts
+future: true
+
 # SEO TAGS
 twitter:
   username: ArmagideonTimes
