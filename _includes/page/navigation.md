@@ -1,5 +1,6 @@
 - [Home]({{ site.baseurl }}/)
 - [Catalog]({{ site.baseurl }}/catalog)
 - [Publishing]({{ site.baseurl }}/publishing)
+- [New Tape]({{ site.baseurl }}/new_tape)
 - [Merchandise]({{ site.baseurl }}/merchandise)
 - [About Us]({{ site.baseurl }}/about)
