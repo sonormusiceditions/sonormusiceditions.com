@@ -57,7 +57,7 @@ permalink: /list
 {%- assign orphan = future | where_exp: "item", "item.date == nil" -%}
 
 # orp
-{% for o in orphan %}- {{ o|inspect }}
+{% for o in orphan %}- {{ o.relative_path }}
 {% endfor %}
 
 {%- endfor -%}
