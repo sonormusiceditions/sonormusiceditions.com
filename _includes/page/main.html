@@ -19,8 +19,15 @@
       {%- include karrello/buy_box.html -%}
     {%- endif -%}
   {%- endif -%}
-  {% include gallery.html type="release" %}
+  {%- if page.gallery_up -%}
+    <div class="gallery_up">
+      {% include gallery.html type="release" %}
+    </div>
+  {%- endif -%}
   {{ content }}
+  {%- if page.gallery_up == nil -%}
+    {% include gallery.html type="release" %}
+  {%- endif -%}
   {% comment %} bottom release {% endcomment %}
   {% include share.html %}
   {% include also.html %}

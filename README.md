@@ -89,6 +89,7 @@ Possibili metadata da inserire nell'intestazione del file, delimitati dai tratti
 - `buy:` Eventuale link esterno `BUY HERE`, esempio [baseball-t-shirt.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_merchandise/baseball-t-shirt/baseball-t-shirt.md)
 - `image:` Eventuale indirizzo `url` dell'immagine di copertina
 - `gallery:` Eventuale lista di indirizzi `url` alle immagini della gallery, esempio [spell.md](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_catalog/spell/spell.md)
+- `gallery_up: true` Per mostrare la gallery in alto, tra il carrello e il testo
 - `price:` Eventuale prezzo del prodotto, se è diverso dal prezzo di base definito nella configurazione [karrello](https://github.com/sonormusiceditions/sonormusiceditions.github.io/edit/master/_data/karrello.yml)
 - `soldout: true` Per escludere un prodotto dalla vendita
 
