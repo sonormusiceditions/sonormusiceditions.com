@@ -53,13 +53,4 @@ permalink: /list
     </tr>
   </tfoot>
 </table>
-{%- assign future = site[kc] |where_exp: "item", "item.title != 'Catalog'"| sort: "date" -%}
-{%- assign orphan = future | where_exp: "item", "item.date == nil" -%}
-
-# orp
-{% for o in orphan %}- {{ o.relative_path }} {{o.date}} {{o.title}}
-{%- assign test = "item.relative_path == '" | append: o.relative_path | append: "'"-%}
-{%- assign zero = site[kc] |where_exp: "item", test -%}
-{% endfor %}
-
 {%- endfor -%}
