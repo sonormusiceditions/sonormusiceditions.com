@@ -18,6 +18,7 @@ permalink: pretty
 
 # Show future posts
 future: true
+unpublished: true
 
 # SEO TAGS
 twitter:
