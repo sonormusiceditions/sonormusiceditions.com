@@ -53,14 +53,11 @@ permalink: /list
     </tr>
   </tfoot>
 </table>
-{%- assign future = site[kc] | sort: "date" -%}
+{%- assign future = site[kc] |where_exp: "item", "item.title != 'Catalog'"| sort: "date" -%}
 {%- assign orphan = future | where_exp: "item", "item.date == nil" -%}
 
 # orp
-{% for o in orphan %}- {{ o.volume }} {{ o.title }} {{ o.author }}
+{% for o in orphan %}- {{ o|inspect }}
 {% endfor %}
 
-# sit
-{{site.future|inspect}}
-{{site.unpublished|inspect}}
 {%- endfor -%}
