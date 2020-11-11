@@ -3,6 +3,7 @@ title: LA PROFESSORESSA DI SCIENZE NATURALI OST
 author: ALESSANDRO ALESSANDRONI
 volume: SME 72
 date: 17 Nov 2020
+soldout: true
 ---
 
 Sonor Music Editions proudly presents the whole, previously unreleased soundtrack of the Italian erotic comedy cult "LA PROFESSORESSA DI SCIENZE NATURALI" movie from 1976, directed by Michele Massimo Tarantini. Starring the Italian sexy symbol Lilli Carati and filmed in the beautiful Ischia island, this incredible score by maestro Alessandro Alessandroni is part of the prolific sexy-comedy movement of Italian cinema between 1970s and 80s. Funky, groovy, erotic and flirtatious inspired sounds with the matchless '70s Italian taste sorrounded by unbelievable breaks and downtempo beats: this majestic soundtrack collects all the best Alessandroni's special flair in a unique release, showcasing his use of four/four grooves and wah-wah guitars juxtaposed against strings and orchestral arrangements, killer drums and so on. Limited edition for collectors with artwork designed by John Henriksson (Piano Piano Records) and remastered sound.
