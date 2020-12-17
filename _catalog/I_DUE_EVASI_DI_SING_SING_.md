@@ -1,0 +1,12 @@
+---
+title: I DUE EVASI DI SING SING OST
+author: ENNIO MORRICONE
+volume: SME 73
+date: 19 Jan 2021
+price: 22
+gallery: https://f4.bcbits.com/img/0022724348_10.jpg
+gallery_up: true
+---
+Sonor Music Editions proudly announces the first commercial release on vinyl (shortly followed by a CD edition) of Ennio Morricone's soundtrack to the film "I DUE EVASI DI SING SING" from 1964, directed by the legendary Lucio Fulci and starring the famed Italian comedy characters Franco Franchi and Ciccio Ingrassia. A bit away from what would have been his 92° birthday, the label presents a pseudo unreleased gem by the greatest all-time composer at the beginning of his career. This stunning recovery was possible thanks to the work of the producer Lorenzo Fabrizi (head of Sonor Music Editions) and the collaboration of Claudio Fuiano and Daniel Winkler, two significant connoisseurs in the field and maestro Morricone's discography. The album was originally released on an impossible-to-find promo-only library release in the late '60s with different titles, due to that the score remained concealed until now. With the recoup of the original MONO tapes Sonor was able to work with the original soundtrack sequence adding two bonus tracks from the original sessions. The music enhances the stories of two sloppy thiefs (Franchi and Ingrassia) in the styles of orchestral Jazz and Bossa Nova, with more sweet and cheerful themes built around the bewitching character of Gloria Paul.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/936451348&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/armagideon-times" title="Armagideon Times" target="_blank" style="color: #cccccc; text-decoration: none;">Armagideon Times</a> · <a href="https://soundcloud.com/armagideon-times/ennio-morricone-i-due-evasi-di-sing-sing-ost" title="Ennio Morricone - &quot;I DUE EVASI DI SING SING&quot; OST" target="_blank" style="color: #cccccc; text-decoration: none;">Ennio Morricone - &quot;I DUE EVASI DI SING SING&quot; OST</a></div>
