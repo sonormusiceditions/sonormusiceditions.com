@@ -2,7 +2,6 @@
 author: PAOLO CASA
 title: DEEP WATER
 date: November 20, 2017
-volume: SONOR 1
 ---
 
 Our first new music production [Sonor01] is signed by our friend, maestro Paolo Casa, responsible of some killer Library music sessions from the '70s. "DEEP WATER" is an intense water Electronic trip with Easy Listening and Lounge moments alternated by cool Underwater music. Music specially recorded for modern television and nature documentaries.
