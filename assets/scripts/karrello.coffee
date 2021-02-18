@@ -137,6 +137,7 @@ if $("body").data("title") is "checkout"
       data-upload='1'
       data-host='www.paypal.com'
       data-return='{{site.baseurl}}/thankyou'
+      data-notify_url='http://petrosh.altervista.org/sme/listener.php'
       data-rm='1'
       data-type='form'
       data-currency='{{ karrello.currency.code | default: EUR }}'
