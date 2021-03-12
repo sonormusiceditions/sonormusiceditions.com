@@ -2,5 +2,6 @@
 - [Catalog]({{ site.baseurl }}/catalog)
 - [Publishing]({{ site.baseurl }}/publishing)
 - [New Tape]({{ site.baseurl }}/new_tape)
+- [I MARC 4]({{ site.baseurl }}/i_marc_4)
 - [Merchandise]({{ site.baseurl }}/merchandise)
 - [About Us]({{ site.baseurl }}/about)
