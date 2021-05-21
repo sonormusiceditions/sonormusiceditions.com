@@ -6,8 +6,7 @@ currency:
   symbol: €
 
 # Collections enabled to sell
-collections:
-  - catalog
+collections: []
 
 # Items number for wholesale prices and shipping
 # wholesale:
