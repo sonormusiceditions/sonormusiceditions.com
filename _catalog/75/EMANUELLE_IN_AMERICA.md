@@ -3,7 +3,6 @@ title: EMANUELLE IN AMERICA OST
 author: Nico Fidenco
 volume: SME 75
 date: 28 june 2021
-image: https://sonormusiceditions.bandcamp.com/album/emanuelle-in-america-ost
 ---
 The finest and rarest chapter of EMANUELLE saga by the cult maestro Nico Fidenco and his loyal orchestra director Oscar Lindok (Giacomo Dell'Orso). Majestic original soundtrack of the sex thriller movie "EMANUELLE IN AMERICA" from 1977 directed by the legendary Joe D'Amato. Sexploitation cult and acclaimed director's third instalment of Black Emanuelle film series starring Dutch actress Laura Gemser. The deepest, intense and most thrilling volume of Black Emanuelle adventures with the best music cuts of the whole series. Spellbinding, breathtaking and wordless music with dreamy orchestral movements, unbelievable downtempo Funk and timeless beats, mental Afro-beat and dancing percussion, sweet Psychedelic guitars, subtle female chorus, heavy strings and orchestra, loungy sounds, driving funky drums and so on. Essential Italian OST masterpiece, top-notch recording for any fan of soundtrack music. Artwork is by the maestro Sandro Symeoni.
 
