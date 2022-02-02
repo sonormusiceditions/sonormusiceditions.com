@@ -4,6 +4,7 @@ author: ALESSANDRO ALESSANDRONI & RINO DE FILIPPI
 volume: SME 77
 date: 31 Marz 2022
 ---
+image: https://f4.bcbits.com/img/a2516975674_10.jpg
 
 Sonor Music Editions proudly announces the first ever reissue of another Italian Library holy grail, fruit of the union between two of the most brilliant composers of Italian panorama: Alessandro Alessandroni and Rino De Filippi. "VACANZE" album (in English 'holidays'), was originally released in early/mid 70s on Sermi output, and is one of the most elusive records from the label out there. From refined Lounge music to stunning Jazz-Funk and groovy vibes, this album features an unbelievable set of the coolest themed music from the whole Library scene, with maestro Rino De Filippi's harpsichord on evidence in many tracks and soaring, loungy and dreamy moods throughout the entire album. A superlative recording, with an incredible sleeve design that has obssessed Library collectors for years, and for sure among the best releases from the gold Sermi label along with "Nel Mondo Del Lavoro" release just announced.
 
