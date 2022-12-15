@@ -9,4 +9,8 @@ Italian Jazz quartet composed of Maurizio Majorana on the bass (M), Antonello Va
 
 All the tracks are available for licensing in the territories of the world
 
+![Marc 4](assets/images/marc1.jpg)
+
+![Marc 4](assets/images/marc2.jpg)
+
 <iframe src="https://open.spotify.com/embed/album/0piXh6fzuUNOgfmkYjF4qZ" width="700" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

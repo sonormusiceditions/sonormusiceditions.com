@@ -5,7 +5,8 @@ volume: Sonor 23
 date: December 5, 2022
 support: Cassette
 buy: https://sonormusiceditions.bandcamp.com/album/the-secret-disco-tapes-vol-1
-gallery: https://f4.bcbits.com/img/0030480652_10.jpg
+gallery:
+- https://f4.bcbits.com/img/0030480652_10.jpg
 gallery_up: true
 ---
 
