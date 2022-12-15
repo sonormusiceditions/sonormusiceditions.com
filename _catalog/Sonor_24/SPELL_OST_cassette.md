@@ -5,9 +5,6 @@ volume: Sonor 24
 date: December 5, 2022
 support: Cassette
 buy: https://sonormusiceditions.bandcamp.com/album/spell-dolce-mattatoio-full-soundtrack
-gallery:
-- https://f4.bcbits.com/img/0030480379_10.jpg
-gallery_up: true
 ---
 
 Sonor Music Editions presents the full soundtrack of "SPELL (DOLCE MATTATOIO)" movie from 1977, also known as "L'UOMO, LA DONNA, LA BESTIA" on cassette format. Maestro Claudio Tallino signed the music for the censored erotic thriller movie directed by the visionary genius Alberto Cavallone. A shocking, freaking and occult storyline set in the province of Rome, scene of shady affairs and private dramas that protagonists try to hide behind a fake respectability. Stunning and booming Italian OST, filled with scary voices, groovy rhythms and themed Horror/Thriller vibes, now presented for the very first time in its full version.
