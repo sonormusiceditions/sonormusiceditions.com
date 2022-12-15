@@ -4,6 +4,7 @@ author: ALESSANDRO ALESSANDRONI & RINO DE FILIPPI
 volume: SME 77
 date: 31 Marz 2022
 image: https://f4.bcbits.com/img/a2516975674_10.jpg
+buy: https://sonormusiceditions.bandcamp.com/album/vacanze
 ---
 
 
