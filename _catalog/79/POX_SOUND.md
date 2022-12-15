@@ -4,6 +4,7 @@ author: PAOLO ORMI E LA SUA ORCHESTRA
 volume: SME 79
 date: 15 June 2022
 image: https://f4.bcbits.com/img/a1394923864_10.jpg
+buy: https://sonormusiceditions.bandcamp.com/album/p-o-x-sound
 ---
 
 Maestro Paolo Ormi was a great arranger and orchestra director for the Italian television of the 1970s/80s that strictly worked with many important international artists and that's largely remembered for being the personal Raffaella Carra and Rita Pavone's arranger and conductor for a large part of his career. Beyond his contribution and work for the Italian famed singers, he delighted himself in producing some gorgeous Latin Funk albums, often covering and re-arranging Latin music classics.
