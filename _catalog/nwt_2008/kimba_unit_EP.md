@@ -3,6 +3,8 @@ title: THE KIMBA UNIT EP
 author: Kimba Unit
 volume: nwt 2008
 date: 15 June 2022
+support: 7''
+buy: https://sonormusiceditions.bandcamp.com/album/the-kimba-unit-ep
 image: https://f4.bcbits.com/img/a3007609108_10.jpg
 ---
 
