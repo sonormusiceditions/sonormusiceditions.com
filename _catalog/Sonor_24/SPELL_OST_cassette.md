@@ -2,7 +2,7 @@
 title: SPELL (DOLCE MATTATOIO) Full OST
 author: CLAUDIO TALLINO
 volume: Sonor 24
-date: 5 Dec 2022
+date: December 5, 2022
 buy: https://sonormusiceditions.bandcamp.com/album/spell-dolce-mattatoio-full-soundtrack
 gallery: - https://f4.bcbits.com/img/0030480379_10.jpg
 ---
