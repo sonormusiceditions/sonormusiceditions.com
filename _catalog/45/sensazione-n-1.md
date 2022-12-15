@@ -10,4 +10,4 @@ support: digital
 
 Sonor Music Editions presents one of the most elusive records of Italian Library field and an insane piece of trippy mood music. The mental Psychedelic artwork reflects the hallucinogenic sounds of this crazy music production from 1971. Weird Lounge intervallos and deeply Experimental Avant-garde themed music with loads of different moods for background use and sound sensations. Early atonal and Psychedelic extreme Library music from the Italian 1970s golden production.
 
-<script src='https://player.believe.fr/html5player/3614977874433/53f5dde7044c7-350.js' type='text/javascript'></script>
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1713414875/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://sonormusiceditions.bandcamp.com/album/sensazioni-n-1">SENSAZIONI N.1 by Various</a></iframe>
