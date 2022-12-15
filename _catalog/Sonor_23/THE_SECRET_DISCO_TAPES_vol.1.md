@@ -2,7 +2,7 @@
 title: THE SECRET DISCO TAPES - vol.1
 author: CICCI SANTUCCI
 volume: Sonor 23
-date: 5 Dec 2022
+date: December 5, 2022
 support: Cassette
 buy: https://sonormusiceditions.bandcamp.com/album/the-secret-disco-tapes-vol-1
 gallery: https://f4.bcbits.com/img/0030480652_10.jpg
