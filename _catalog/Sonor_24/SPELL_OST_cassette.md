@@ -1,5 +1,5 @@
 ---
-title: SPELL (DOLCE MATTATOIO) - Full Soundtrack
+title: SPELL (DOLCE MATTATOIO) Full OST
 author: CLAUDIO TALLINO
 volume: Sonor 24
 date: 5 Dec 2022
