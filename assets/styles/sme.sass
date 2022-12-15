@@ -7,6 +7,9 @@ $giallo: #FFB241
 $white: WhiteSmoke
 $width: 55em
 
+\:root
+  --giallo: #{$giallo}
+
 // HTML
 html
   background: $arancio
@@ -178,8 +181,25 @@ body[data-title='new-tape'] main p
   font-size: 90%
   text-align: justify
 
+//
+// MARC 4 IMAGE
+// --------------------------------------
+
 .full-width
   max-width: 100%
 
 main > p > img[alt='Marc 4']
+  @extend .full-width
+
+//
+// NYT link
+// --------------------------------------
+.nyt-link
+  color: var(--giallo) !important
+  text-decoration: underline !important
+  &:hover
+    color: currentColor !important
+    text-decoration: none
+
+[data-title='about-us'] .gallery.page [data-count='1']
   @extend .full-width

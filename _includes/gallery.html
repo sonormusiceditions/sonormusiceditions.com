@@ -8,7 +8,7 @@
 {%- if page.collection == "merchandise" -%}{%- assign init = 0 -%}{%- else -%}{%- assign init = 1 -%}{%- endif -%}
 {%- assign stop = init | plus: 9 -%}
 {% for image in (init..stop) %}
-{%- assign image_src = page_path | append: "/" | append: image | append: ".jpg" -%}
+{%- assign image_src = page_path | append: "/" | append: image | append: ".jpg?t=" | append: site.time -%}
 {%- assign src = page.gallery[forloop.index0] | default: image_src -%}
 <img data-count="{{ forloop.index }}" src="{{ src }}" onerror="this.onerror=null;this.parentNode.removeChild(this);">
 {% endfor %}
