@@ -4,7 +4,7 @@ author: ALESSANDRO ALESSANDRONI
 volume: SME 62
 image: https://f4.bcbits.com/img/a3642555359_10.jpg
 date: 28 Nov 2019
-Buy:https://sonormusiceditions.bandcamp.com/album/open-air-parade
+Buy: https://sonormusiceditions.bandcamp.com/album/open-air-parade
 ---
 
 The Alessandro Alessandroni's definitive holy grail "OPEN AIR PARADE" is finally get reissued through our label. We're excited to present the very best library record by the cult maestro on the dreams podium 
