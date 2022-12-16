@@ -5,9 +5,6 @@ volume: Sonor 23
 date: December 5, 2022
 support: Cassette
 buy: https://sonormusiceditions.bandcamp.com/album/the-secret-disco-tapes-vol-1
-gallery:
-- https://f4.bcbits.com/img/0030480652_10.jpg
-gallery_up: true
 ---
 
 Sonor Music Editions presents a collection of rare and obscure recordings by the composer and trumpeter genius Cicci Santucci on cassette, all transferred and remastered by Lorenzo Fabrizi from 1980s lost reels, vinyls and tapes. All the tracks have been privately produced and recorded at Cicci Santucci's own studio between 1982 and 1987 for the TV synchronization, spots and background usage. Enjoy the Maestro's crazy cosmic synths, Italo-Disco and electronics galore, for a spacey trip into the most obscure and weird production music ever!
