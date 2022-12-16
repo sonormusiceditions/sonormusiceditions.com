@@ -2,8 +2,8 @@
 title: UTOPIA
 author: Sandro Brugnolini
 volume: SME 76
-date: 28 june 2021
-Buy: https://sonormusiceditions.bandcamp.com/album/utopia
+date: June 28, 2021
+buy: https://sonormusiceditions.bandcamp.com/album/utopia
 ---
 Sonor Music Editions is proudly continuing the dive into the glorious Sermi catalogue, a renomated Italian Library label that released, between late 60s and early 70s, some among the most sought-after and insane records of the whole Library/Soundtrack genre. We're now excited to announce the first ever reissue of another Italian Library grail from the catalogue - originally issued in 1972 on Gemelli label. Sandro Brugnolini's masterpiece "UTOPIA", originally pressed on a ridiculous run, and released on a beatiful tip-on sleeve reproducing painter Michel Seuphor's abstract art. The first official release after the recent maestro's passing, conceived with the great arrangements of Giorgio Carnini at the Hammond and piano, and the direction of maestro Franco Tamponi. A brilliant and inspired Jazz-Funk and Lounge Jazz session with just amazing sounds, driven by both dreamy and underground moods, Avant-garde Jazz refined orchestrations and gorgeous grooves.
 
