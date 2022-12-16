@@ -4,6 +4,7 @@ author: PIERO PICCIONI
 support: 7'' EP
 volume: Sonor 22
 date: January 30, 2023
+buy: https://sonormusiceditions.bandcamp.com/album/chi-dice-donna-dice-donna-ost
 ---
 
 Sonor Music Editions proudly unveils the previously unreleased soundtrack of the sexy-comedy film "CHI DICE DONNA DICE DONNA" from 1976 directed by Tonino Cervi. The music is signed here by the legendary Italian giant of film music, Maestro Piero Piccioni, and it's just unbelievable. This rich EP reissue includes the sweet and romantic Downtempo Funk of "Svezia" theme, previously released on a very rare original 45 single, and 3 totally unreleased cuts from the session that swing between the refined and golden Piero Piccioni's music taste and the groovy, funky vibes of 'Commedia all'Italiana' soundtrack music at his best.
