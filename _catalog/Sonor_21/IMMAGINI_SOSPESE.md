@@ -4,6 +4,7 @@ author: GIULIANO SORGINI
 volume: Sonor 21
 date: January 30, 2023
 support: 7''
+buy: https://sonormusiceditions.bandcamp.com/album/immagini-sospese
 ---
 
 Sonor Music Editions proudly announces the first reissue ever of a Giuliano Sorgini's library masterpiece - originally released on the elusive Goldfinger Italian library-only promo label. "IMMAGINI SOSPESE" was originally released on the very rare "PANORAMI" album in 1980, and specifically composed for the soundtrack of an obscure Italian RAI TV documentary. Also known as "Dolce Casa", this track is known to be one of the best-ever Sorgini's bangers, with an incredible drums groove, lush melodies over a soft chord structure made of airy strings. The B-side includes a killer new track composed by producers Alex Goose and Matt Zara, deeply inspired by the 'Immagini Sospese' tune. Limited to 500 copies only and remastered from the original master tapes.
