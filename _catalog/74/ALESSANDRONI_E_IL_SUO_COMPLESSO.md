@@ -3,7 +3,7 @@ title: ALESSANDRO ALESSANDRONI E IL SUO COMPLESSO
 author: ALESSANDRO ALESSANDRONI
 volume: SME 74
 date: 19 Jan 2021
-Buy: https://sonormusiceditions.bandcamp.com/album/alessandro-alessandroni-e-il-suo-complesso
+buy: https://sonormusiceditions.bandcamp.com/album/alessandro-alessandroni-e-il-suo-complesso
 ---
 
 Sonor Music Editions is happy to announce the reissue of another holy grail by maestro Alessandro Alessandroni. The first legendary Farfalla release, "Alessandro Alessandroni E Il Suo Complesso" originally released in few hundred copies on the cult Sermi imprint in February 1968. The seminal debut album realized by the legendary Italian maestro, featuring bewitching scat vocals by his wife Giulia De Mutiis (aka Kema), that truly started the Italian Library production golden era that would culminate in mid ‘1980s. A true landmark of the genre and an Italian discography jewel that spaces among the best Jazz, Bossa Nova and Lounge music; undoubtedly a desirable item of world’s record collecting field. Obsessive Jazz suites, enchanting scats over mind-blowing Bossa tunes, bouncy break-beats drums, groovy Pop and refined loungy atmospheres over some soft Psichedelia arrangements. An essential Italian Library masterpiece!
