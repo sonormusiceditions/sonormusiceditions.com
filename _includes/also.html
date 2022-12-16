@@ -1,8 +1,8 @@
-{%- assign index_page = "item.permalink != '" | append: page.collection | append: "'" -%}
-{%- assign same_page = "item.path != '" | append: page.path | append: "'" -%}
-{%- assign also1 = site[page.collection] | sample: 5 -%}
-{%- assign also2 = also1 | where_exp: "item", index_page -%}
-{%- assign also = also2 | where_exp: "item", same_page -%}
+{% assign index_page = "item.permalink != '" | append: page.collection | append: "'" %}
+{% assign same_page = "item.path != '" | append: page.path | append: "'" %}
+{% assign also1 = site[page.collection] | sample: 5 %}
+{% assign also2 = also1 | where_exp: "item", index_page %}
+{% assign also = also2 %}
 <h2 class="also">YOU MAY ALSO LIKE</h2>
 <ol>
   {% for release in also limit:3 %}

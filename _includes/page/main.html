@@ -1,41 +1,41 @@
 <div class="wrapper">
   {% if page.permalink == page.collection and page.collection %}
-  {% comment %} -------------------- Grid -------------------- {% endcomment %}
-  <main class="grid">
-  <h1>{{ page.title | upcase }}</h1>
-  {{ content }}
-  {% include grid.html %}
+    {% comment %} -------------------- Grid -------------------- {% endcomment %}
+    <main class="grid">
+    <h1>{{ page.title | upcase }}</h1>
+    {{ content }}
+    {% include grid.html %}
   {% elsif page.collection %}
-  {% comment %} -------------------- Release -------------------- {% endcomment %}
-  <main>
-  <h1>{{ page.title }}</h1>
-  <h2>{{ page.author | default: "&nbsp;" }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
-  {%- if page.buy -%}<a class="buy" href="{{ page.buy }}">BUY HERE</a>{%- endif -%}
-  {% comment %} buy box {% endcomment %}
-  {%- if site.data.karrello.collections contains page.collection and page.support != "digital" -%}
-    {%- if page.soldout -%}
-      <p>SOLDOUT</p>
-    {%- else -%}
-      {%- include karrello/buy_box.html -%}
+    {% comment %} -------------------- Release -------------------- {% endcomment %}
+    <main>
+    <h1>{{ page.title }}</h1>
+    <h2>{{ page.author | default: "&nbsp;" }}{% if page.volume %} <i>({{ page.volume }})</i>{% endif %}</h2>
+    {%- if page.buy -%}<a class="buy" href="{{ page.buy }}">BUY HERE</a>{%- endif -%}
+    {% comment %} buy box {% endcomment %}
+    {%- if site.data.karrello.collections contains page.collection and page.support != "digital" -%}
+      {%- if page.soldout -%}
+        <p>SOLDOUT</p>
+      {%- else -%}
+        {%- include karrello/buy_box.html -%}
+      {%- endif -%}
     {%- endif -%}
-  {%- endif -%}
-  {%- if page.gallery_up -%}
-    <div class="gallery_up">
+    {%- if page.gallery_up -%}
+      <div class="gallery_up">
+        {% include gallery.html type="release" %}
+      </div>
+    {%- endif -%}
+    {{ content }}
+    {%- if page.gallery_up == nil -%}
       {% include gallery.html type="release" %}
-    </div>
-  {%- endif -%}
-  {{ content }}
-  {%- if page.gallery_up == nil -%}
-    {% include gallery.html type="release" %}
-  {%- endif -%}
-  {% comment %} bottom release {% endcomment %}
-  {% include share.html %}
-  {% include also.html %}
+    {%- endif -%}
+    {% comment %} bottom release {% endcomment %}
+    {% include share.html %}
+    {% include also.html %}
   {% else %}
-  {% comment %} -------------------- Page -------------------- {% endcomment %}
-  <main>
-  {{ content }}
-  {% include gallery.html type="page" %}
+    {% comment %} -------------------- Page -------------------- {% endcomment %}
+    <main>
+    {{ content }}
+    {% include gallery.html type="page" %}
   {% endif %}
   </main>
 </div>
