@@ -6,7 +6,7 @@ date: 21 Sep 2020
 gallery:
   - https://f4.bcbits.com/img/0021565614_10.jpg
 gallery_up: true
-Buy: https://sonormusiceditions.bandcamp.com/album/black-sound-from-white-people
+buy: https://sonormusiceditions.bandcamp.com/album/black-sound-from-white-people
 ---
 
 Sonor Music Editions is happy to launch the first official vinyl reissue of one of the finest and sought-after Latin Jazz albums ever made in Italy in the 1970s - "BLACK SOUND FROM WHITE PEOPLE" by the prince of Italian Funk, Augusto Martelli.
