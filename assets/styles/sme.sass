@@ -9,6 +9,8 @@ $width: 55em
 
 \:root
   --giallo: #{$giallo}
+  --arancio: #{$arancio}
+  --maron: #{$maron}
 
 // HTML
 html
@@ -42,10 +44,22 @@ main
     color: $arancio
     &.also
       margin-top: 2.5em
-  a:link, a:visited
+  a
+    &:link, &:visited
     color: $white
     &.buy
-      color: $giallo
+      &:link, &:visited
+        color: var(--giallo)
+        border: 3px solid var(--arancio)
+        padding: .5em 1em
+        border-radius: 1em
+        font-size: 1.3em
+        font-weight: bold
+      &:hover
+        background: var(--giallo)
+        color: var(--maron)
+      &:active
+        border-color: var(--maron)
   > p
     width: 100%
 
