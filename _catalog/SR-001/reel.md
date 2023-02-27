@@ -4,7 +4,7 @@ author: Various
 volume: SR-001
 date: 20 mar 2023
 gallery: https://f4.bcbits.com/img/0031557306_10.jpg
-
+buy: https://sonormusiceditions.bandcamp.com/album/sr-record
 ---
 The first compilation ever of the historical SR Records, label of Sermi Film publishing, active in Italy from 1967 to circa 1974.
 
