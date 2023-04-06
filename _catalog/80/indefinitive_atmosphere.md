@@ -1,6 +1,6 @@
 ---
 title: INDEFINITIVE ATMOSPHERE
-author: GIOVANNI TOMMASO
+author: Giovanni Tommaso
 volume: SME 80
 date: April 28, 2023
 buy: https://sonormusiceditions.bandcamp.com/album/indefinitive-atmosphere
