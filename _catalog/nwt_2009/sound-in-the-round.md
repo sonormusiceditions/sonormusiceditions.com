@@ -1,6 +1,6 @@
 ---
 title: SOUND-IN-THE-ROUND
-artist: Mark Saddlemire
+author: Mark Saddlemire
 volume: nwt 2009
 date: 15 September 2023
 buy: https://sonormusiceditions.bandcamp.com/album/sound-in-the-round
