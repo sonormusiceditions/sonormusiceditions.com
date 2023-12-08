@@ -4,6 +4,7 @@ author: Piero Umiliani
 volume: SME 82
 date: 8 Dec, 2023
 image: https://f4.bcbits.com/img/a0611642780_10.jpg
+buy: https://sonormusiceditions.bandcamp.com/album/a-tempo-di-jazz
 ---
 Sonor Music Editions proudly presents "A TEMPO DI JAZZ" by Maestro Piero Umiliani. This lost gem captures the formative years of Modern Jazz in late 1950s Italy - alongside the legendary Basso-Valdambrini recordings in the early 1960s, as well as the early years of Piero Umiliani's long and prolific career as a composer with over 190 soundtracks, 40 library albums, and 35 TV title themes recorded.
 
