@@ -3,6 +3,7 @@ title: OPEN AIR PARADE
 author: Alessandro Alessandroni & Giovanni Tommaso
 volume: SME 62
 date: 15 March 2024
+image: https://f4.bcbits.com/img/a0077578766_10.jpg
 ---
 
 Sonor Music Editions is excited to announce this revived issue of Open Air Parade, one of the most sought-after artifacts from the golden era of Italian library music.
