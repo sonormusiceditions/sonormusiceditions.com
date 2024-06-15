@@ -3,7 +3,7 @@ title: OVERGROUND
 author: Sandro Brugnolini
 volume: SME 84
 date: 05 July 2024
-image: https://sonormusiceditions.bandcamp.com/album/overground](https://f4.bcbits.com/img/a2812782568_16.jpg
+image: https://f4.bcbits.com/img/a2812782568_16.jpg
 buy: https://sonormusiceditions.bandcamp.com/album/overground
 ---
 
