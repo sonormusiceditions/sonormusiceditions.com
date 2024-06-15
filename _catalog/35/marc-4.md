@@ -2,7 +2,7 @@
 author: I MARC 4
 title: GLP 1002
 date: March 27, 2017
-image: https://f4.bcbits.com/img/a2839697762_10.jpg
+image: https://f4.bcbits.com/img/a3227331086_16.jpg
 volume: SME 35
 soldout: true
 ---
