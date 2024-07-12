@@ -1,7 +1,6 @@
 - [Home]({{ site.baseurl }}/)
 - [Catalog]({{ site.baseurl }}/catalog)
-- [Publishing]({{ site.baseurl }}/publishing)
+- [Store](https://shop.sonormusiceditions.com/)
 - [New Tape]({{ site.baseurl }}/new_tape)
 - [I MARC 4]({{ site.baseurl }}/i_marc_4)
-- [Merchandise]({{ site.baseurl }}/merchandise)
 - [About Us]({{ site.baseurl }}/about)
