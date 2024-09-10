@@ -3,6 +3,7 @@ title: AQUARIUM SOUNDS
 author: Filippo Trecca
 volume: SME 85
 date: 20 Sep 2024
+buy: https://filippotrecca.bandcamp.com/album/aquarium-sounds
 ---
 Sonor Music Editions is honored to announce the reissue of the very rare LP “Aquarium Sounds” by Italian composer Filippo Trecca. Originally released in 1979 as a promo-only item, “Aquarium Sounds” is a hybrid collection of tracks; some were used as the soundtrack to the thriller TV series “Così Per Gioco” (1979), directed by Leonardo Cortese; others from the talk show “Acquario” (1978-1979) hosted by Italian journalist and writer Maurizio Costanzo. The album also includes “Elena Tip” which features playful vocals by a young Ilona Staller (aka Cicciolina).
 
