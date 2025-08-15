@@ -10,4 +10,3 @@ Sonor Music Editions born in 2013 from an idea of Lorenzo Fabrizi, owner and fou
 In 2020 the label started to invest in the acquisition of original archival music, developing its own production library series with a nod to new, emerging and talented artists.
 
 [The New York Times interview](https://www.nytimes.com/2021/06/09/arts/music/italian-library-music-sven-wunder.html){:.nyt-link}<br><br>
-[Discogs Feature] (https://www.discogs.com/digs/features/sonor-music-and-the-art-of-resurrecting-italian-library-records/?srsltid=AfmBOooVbHRzzhPUC5uZU5uLZ9aJ8xiDbpHdpvv7ar1g1ldrPi0uwDQC){:.discogs-link}<br><br>
