@@ -3,6 +3,7 @@ title: IO E MARA
 author: Alberto Baldan Bembo
 volume: SME 91
 date: 29 Sept 2025
+buy: https://albertobaldanbembo.bandcamp.com/album/io-e-mara
 ---
 A Milan-born multi-instrumentalist of Venetian heritage, Alberto Baldan Bembo was a gifted vibraphonist, organist, pianist, arranger, and composer whose work bridged jazz, pop, and film music. By the early 1960s, he was performing with Italy’s leading ensembles, including I Menestrelli del Jazz and Bruno De Filippi’s group, and soon became an in-demand session musician. For several years, he toured with the legendary Mina, providing the piano and organ backbone to her live shows—a role that sharpened the cinematic sensibility and refined musicianship that would later define his soundtrack work. In the years to come, he would be celebrated for his scores to films such as L’Amica Di Mia Madre (1975) and Lingua Argento (1976), earning a place alongside Piero Umiliani, Alessandro Alessandroni, Berto Pisano, and other luminaries of Italy’s golden age of soundtrack and library music.
 
