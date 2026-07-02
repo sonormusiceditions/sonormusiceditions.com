@@ -3,7 +3,7 @@ title: SILVER MUSIC
 author: I MARC 4
 volume: SME 93
 date: 26 Jun 2026
-img: https://f4.bcbits.com/img/0045724336_10.jpg
+img: [https://f4.bcbits.com/img/0045724336_10.jpg](https://f4.bcbits.com/img/a2785703777_10.jpg)
 buy: https://imarcquattro.bandcamp.com/album/silver-music
 ---
 
