@@ -1,0 +1,24 @@
+---
+title: SILVER MUSIC
+author: I MARC 4
+volume: SME 93
+date: 26 Jun 2026
+img: https://f4.bcbits.com/img/0045724336_10.jpg
+buy: https://imarcquattro.bandcamp.com/album/silver-music
+---
+
+The legends of the golden era of Italian soundtracks and library music go by many names, but the backbone of that era’s definitive sonic identity is most often identified as I Marc 4 (also known as Marc 4 or I Marc Quattro). While the moniker might be less familiar to the uninitiated, it is a simple acronym derived from its founding members: Maurizio Majorana (bass), Antonello Vannucchi (organ), Roberto Podio (drums and percussion), and Carlo Pes (guitar). The number "4" serves to highlight the core synergy of these four master musicians.
+
+Their journey began in Rome’s vibrant jazz scene of the 1950s and early 1960s, where they honed their craft as members of the RAI national orchestra and collaborated with the most prominent jazz and pop icons of the day.
+
+However, it was their pivotal role in defining the Italian cinematic sound of the 1960s and 1970s that secured their legacy. Their unmistakable style was an eclectic fusion of beat, jazz, classical, and Latin influences—textured with early synthesizers, experimental sound effects, and a blend of electronic and baroque instrumentation. Consequently, their initials are etched into the credits of countless landmark recordings by legendary composers such as Nino Rota, Armando Trovajoli, Gianni Ferrio, Alessandro Alessandroni, Piero Umiliani, and Ennio Morricone.
+
+Beyond their work as session luminaries, they produced a vast body of library music under their own name at the legendary Telecinesound Studios in Rome. These recordings were released through prestigious library labels like Sermi, Ricordi, and Fonit Cetra, as well as through their own imprints: Nelson Records, Silver Men, and Silver Music, spanning a definitive series of sixteen albums.
+
+Ten of these volumes were issued on Nelson Records during the 1970s, featuring the now-iconic military stencil design. Each release was color-coded: red (G.L.P. 1001), dark blue (G.L.P. 1002), gold (G.L.P. 1003), light green (G.L.P. 1004), brown (G.L.P. 1005), black (G.L.P. 1006), light blue (G.L.P. 1007), yellow (G.L.P. 1008), orange (G.L.P. 1009), and cool green (G.L.P. 1010). The series was completed by two elusive companion releases: S.M. 2001 on Silver Music and S.M. 2002 on Silver Men, both presented in the same distinctive brown sleeve. Rediscovered in the 1990s and 2000s, these Nelson releases have since achieved cult status among collectors, producers, and DJs worldwide.
+
+The final two installments, S.M. 2001 and S.M. 2002, remain the rarest and most enigmatic of the set. Often overlooked, they contain some of the most profound "hidden gems" in the group’s catalog. The tracklist traverses a wide stylistic spectrum: from the rare groove and proto-hip hop energy of "Trama Nella Metropoli", "Beat Morbido", and "Candy", to the lush cinematic atmospheres featuring the ethereal vocals of Edda Dell'Orso on "Summer In Love", "On The Rain", and "Arcobaleno". The collection is rounded out by sophisticated jazz pieces like "Flauti Ensemble", "Passeggiata", and "Atmosfere Dolci".
+
+Sonor Music Editions has meticulously curated the finest moments from these two rare albums for this first-ever dedicated reissue. Bringing together the best of Silver Music (S.M. 2001) and Silver Men (S.M. 2002), this release retains the iconic stencil artwork but introduces a striking silver finish. This design choice honors the original ten-album sequence while shedding new light on these outstanding recordings—works that remain, in every sense, golden.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2328274769&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/sonormusiceditions" title="Sonor Music Editions" target="_blank" style="color: #cccccc; text-decoration: none;">Sonor Music Editions</a> · <a href="https://soundcloud.com/sonormusiceditions/i-marc-4-silver-music" title="SILVER MUSIC" target="_blank" style="color: #cccccc; text-decoration: none;">SILVER MUSIC</a></div>
