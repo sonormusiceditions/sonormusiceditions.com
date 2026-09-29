@@ -1,6 +1,6 @@
 ---
 title: SILVER MUSIC
-author: I MARC 4
+author: I Marc 4
 volume: SME 93
 date: 26 Jun 2026
 buy: https://imarcquattro.bandcamp.com/album/silver-music
