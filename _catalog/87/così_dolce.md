@@ -1,6 +1,6 @@
 ---
 title: COSI' DOLCE... COSI' PERVERSA OST
-author: RIZ ORTOLANI
+author: Riz Ortolani
 volume: SME 87
 date: 31 Jan 2025
 buy: https://sonormusiceditions.bandcamp.com/album/cos-dolce-cos-perversa-original-motion-picture-soundtrack
